@@ -1,43 +1,69 @@
 [
   {
     "path": "pathing/锄地专区/小怪2000@mno/0_0_飞萤",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno/0_6_纳塔",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiegedabaobei",
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno/1_1_蒙德",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno/1_2_璃月",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno/1_3_稻妻",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno/1_4_须弥",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno/1_5_枫丹",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno/9_0_低效路线(不跑）",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno/9_3_稻妻未修正部分（不跑）",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx",
+      "https://github.com/mfkvfhpdx"
+    ]
   },
   {
     "path": "pathing/锄地专区/小怪2000@mno",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish",
+      "https://github.com/jiegedabaobei",
+      "https://github.com/Bedrockx",
+      "https://github.com/mfkvfhpdx"
+    ]
   },
   {
     "path": "pathing/锄地专区/挪德卡莱锄地小怪",
@@ -45,47 +71,76 @@
   },
   {
     "path": "pathing/锄地专区/精英400@汐/0传奇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "pathing/锄地专区/精英400@汐/1精英",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "pathing/锄地专区/精英400@汐/2收尾",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "pathing/锄地专区/精英400@汐/3低效",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiegedabaobei",
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/锄地专区/精英400@汐",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiegedabaobei",
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/锄地专区",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish",
+      "https://github.com/jiegedabaobei",
+      "https://github.com/Bedrockx",
+      "https://github.com/mfkvfhpdx",
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/挪德卡莱/便携轴承",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/挪德卡莱/月落银",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/挪德卡莱/霜盏花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/1004452714"
+    ]
   },
   {
     "path": "pathing/地方特产/挪德卡莱",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/1004452714"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹/初露之源",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹/子探测单元",
@@ -93,7 +148,9 @@
   },
   {
     "path": "pathing/地方特产/枫丹/幽光星星/幽光星星@jbcaaa",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jbcaaa"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹/幽光星星/幽光星星@柠檬茶叶",
@@ -101,7 +158,9 @@
   },
   {
     "path": "pathing/地方特产/枫丹/幽光星星",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jbcaaa"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹/柔灯铃",
@@ -109,35 +168,55 @@
   },
   {
     "path": "pathing/地方特产/枫丹/海露花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹/湖光铃兰",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹/苍晶螺",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹/虹彩蔷薇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/jbcaaa",
+      "https://github.com/this-Fish",
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/夜泊石/夜泊石@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/夜泊石/夜泊石@起个名字好难的喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/夜泊石",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/星螺",
@@ -145,7 +224,9 @@
   },
   {
     "path": "pathing/地方特产/璃月/清心",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/清水玉/清水玉@MOMO",
@@ -153,23 +234,33 @@
   },
   {
     "path": "pathing/地方特产/璃月/清水玉/清水玉@起个名字好难的喵/A组鼋背",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/清水玉/清水玉@起个名字好难的喵/B组静态",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/清水玉/清水玉@起个名字好难的喵/C组动态",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/清水玉/清水玉@起个名字好难的喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/清水玉",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/琉璃百合",
@@ -177,15 +268,22 @@
   },
   {
     "path": "pathing/地方特产/璃月/琉璃袋/琉璃袋@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/琉璃袋/琉璃袋@起个名字好难的喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/琉璃袋",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/石珀",
@@ -193,27 +291,44 @@
   },
   {
     "path": "pathing/地方特产/璃月/绝云椒椒",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月/霓裳花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ryanlin594529"
+    ]
   },
   {
     "path": "pathing/地方特产/璃月",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/taotao568685",
+      "https://github.com/cheese-bagel",
+      "https://github.com/ryanlin594529"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/天云草实/天云草实@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/天云草实/天云草实@曦",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/天云草实",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan",
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/幽灯蕈/幽灯蕈@黎歌",
@@ -221,19 +336,27 @@
   },
   {
     "path": "pathing/地方特产/稻妻/幽灯蕈/有草神效率路线@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/幽灯蕈",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/晶化骨髓",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/海灵芝/有草神效率路线@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/海灵芝/海灵芝@tignioj",
@@ -241,15 +364,21 @@
   },
   {
     "path": "pathing/地方特产/稻妻/海灵芝",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/珊瑚真珠/有草神效率路线@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/珊瑚真珠/渊下宫@D捣蛋",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/珊瑚真珠/珊瑚真珠@黎歌",
@@ -257,47 +386,75 @@
   },
   {
     "path": "pathing/地方特产/稻妻/珊瑚真珠",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan",
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/绯樱绣球",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/血斛/有草神效率路线@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/血斛/血斛@起个名字好难的喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/血斛",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/鬼兜虫/无草神@起个名字好难的喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/鬼兜虫/有草神@起个名字好难的喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/鬼兜虫",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻/鸣草",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/地方特产/稻妻",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan",
+      "https://github.com/cx05121",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/ddaodan",
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/地方特产/纳塔/云岩裂叶",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/地方特产/纳塔/微光角菌/微光角菌@幻想千岁",
@@ -305,15 +462,21 @@
   },
   {
     "path": "pathing/地方特产/纳塔/微光角菌/微光角菌@曦",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/纳塔/微光角菌",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/纳塔/枯叶紫英",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/纳塔/浪沫羽鳃",
@@ -333,7 +496,9 @@
   },
   {
     "path": "pathing/地方特产/纳塔/琉鳞石",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/地方特产/纳塔/肉龙掌",
@@ -341,15 +506,25 @@
   },
   {
     "path": "pathing/地方特产/纳塔/青蜜莓",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish",
+      "https://github.com/xd1145"
+    ]
   },
   {
     "path": "pathing/地方特产/纳塔",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan",
+      "https://github.com/cx05121",
+      "https://github.com/this-Fish",
+      "https://github.com/xd1145"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/嘟嘟莲/嘟嘟莲@yulalaa&不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/嘟嘟莲/无草神@忆雪晴",
@@ -357,11 +532,16 @@
   },
   {
     "path": "pathing/地方特产/蒙德/嘟嘟莲/有草神效率路线@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/嘟嘟莲",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/塞西莉亚花/塞西莉亚花@yulalaa",
@@ -369,39 +549,61 @@
   },
   {
     "path": "pathing/地方特产/蒙德/塞西莉亚花/有草神效率路线@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/塞西莉亚花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/小灯草/小灯草@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/小灯草/有草神效率路线@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/小灯草",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/慕风蘑菇/无草神@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/慕风蘑菇/有草神@秋云",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/physligl",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/慕风蘑菇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/physligl",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/落落莓/有草神效率路线@彩虹丘丘人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/落落莓/落落莓@yulalaa",
@@ -409,35 +611,52 @@
   },
   {
     "path": "pathing/地方特产/蒙德/落落莓",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/蒲公英籽/蒲公英籽@秋云",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/physligl"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/蒲公英籽/蒲公英籽效率路线@彩虹丘丘人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/蒲公英籽",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/physligl",
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/钩钩果/无草神@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/钩钩果/有草神@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/钩钩果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/风车菊/有草神效率路线@彩虹QQ人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德/风车菊/风车菊@tignioj",
@@ -449,11 +668,19 @@
   },
   {
     "path": "pathing/地方特产/蒙德/风车菊",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "pathing/地方特产/蒙德",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/KRdingsan",
+      "https://github.com/Tooltingsu",
+      "https://github.com/physligl",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/万相石/万相石@MOMO",
@@ -465,51 +692,79 @@
   },
   {
     "path": "pathing/地方特产/须弥/劫波莲/无草神@jbcaaa",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jbcaaa"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/劫波莲/有草神@lifrom",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/pkjsjq"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/劫波莲",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jbcaaa",
+      "https://github.com/pkjsjq"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/圣金虫",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Limint"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/帕蒂沙兰",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jbcaaa",
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/悼灵花/悼灵花@曦",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/悼灵花/悼灵花补充@ddaodan",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/悼灵花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121",
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/月莲",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/树王圣体菇/无草神@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/树王圣体菇/无草神@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "QQ:867064817; Q群:785263255"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/树王圣体菇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "QQ:867064817; Q群:785263255"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/沙脂蛹/1. 高成功率路线",
@@ -521,47 +776,96 @@
   },
   {
     "path": "pathing/地方特产/须弥/沙脂蛹/地下线路@ddaodan",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/沙脂蛹",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/赤念果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Traveler07"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jbcaaa",
+      "https://github.com/pkjsjq",
+      "https://github.com/Limint",
+      "https://github.com/this-Fish",
+      "https://github.com/cx05121",
+      "https://github.com/ddaodan",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/Tooltingsu",
+      "QQ:867064817; Q群:785263255",
+      "https://github.com/Traveler07"
+    ]
   },
   {
     "path": "pathing/地方特产",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/1004452714",
+      "https://github.com/jbcaaa",
+      "https://github.com/this-Fish",
+      "https://github.com/cx05121",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/taotao568685",
+      "https://github.com/cheese-bagel",
+      "https://github.com/ryanlin594529",
+      "https://github.com/KRdingsan",
+      "https://github.com/ddaodan",
+      "https://github.com/Flower-MUYi",
+      "https://github.com/xd1145",
+      "https://github.com/PanZic",
+      "https://github.com/physligl",
+      "https://github.com/pkjsjq",
+      "https://github.com/Limint",
+      "QQ:867064817; Q群:785263255",
+      "https://github.com/Traveler07"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/丘丘人射手",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/丘丘游侠",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/丘丘王",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/xwsqy6"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/丘丘萨满",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/债务处理人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/元能构装体",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/兽境之狼",
@@ -569,11 +873,15 @@
   },
   {
     "path": "pathing/敌人与魔物/冬国仕女",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/原海异种/原海异种-地面全收集@鸿羽er",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/evildoer12138"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/原海异种/原海异种@雕茂",
@@ -581,11 +889,15 @@
   },
   {
     "path": "pathing/敌人与魔物/原海异种",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/evildoer12138"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/发条机关",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Traveler07"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/史莱姆",
@@ -593,19 +905,30 @@
   },
   {
     "path": "pathing/敌人与魔物/圣骸兽/圣骸兽@下流山汉",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/圣骸兽/圣骸兽@呱呱z",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai",
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/圣骸兽",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic",
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/大灵显化身",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/大驮兽/沙漠路线（暂不可用）",
@@ -621,11 +944,15 @@
   },
   {
     "path": "pathing/敌人与魔物/奇怪的丘丘人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/小型深海龙蜥",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/小驮兽(面具驮)/低效路线",
@@ -641,43 +968,64 @@
   },
   {
     "path": "pathing/敌人与魔物/巡陆艇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/愚人众先遣队",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/C-01-11011"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/愚人众特辖队",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/evildoer12138"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/愚人众风役人/愚人众风役人@下流山汉",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/愚人众风役人/愚人众风役人@迷茫之途&XS",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/xwsqy6"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/愚人众风役人",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic",
+      "https://github.com/xwsqy6"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/浊水幻灵/浊水幻灵@呱呱z/全收集",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/浊水幻灵/浊水幻灵@呱呱z/等级100+",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/浊水幻灵/浊水幻灵@呱呱z/高效率",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/浊水幻灵/浊水幻灵@呱呱z",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/浊水幻灵/浊水幻灵@无狐",
@@ -685,15 +1033,21 @@
   },
   {
     "path": "pathing/敌人与魔物/浊水幻灵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/深渊法师",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/FuYeqi"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/深邃拟覆叶",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/炉壳山鼬",
@@ -701,19 +1055,29 @@
   },
   {
     "path": "pathing/敌人与魔物/熔岩游像",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic",
+      "https://github.com/xwsqy6"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/玄文兽",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic",
+      "https://github.com/xwsqy6"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/盗宝团",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/秘源机兵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/纳塔龙众",
@@ -729,23 +1093,33 @@
   },
   {
     "path": "pathing/敌人与魔物/荒野狂猎/荒野狂猎@鸿羽er",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/evildoer12138"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/荒野狂猎",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/evildoer12138"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/萤术士",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/蕈兽/蕈兽@C-01-11011",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/C-01-11011"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/蕈兽/蕈兽@提瓦特钓鱼玳师",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/蕈兽/蕈兽@翎镞",
@@ -753,23 +1127,34 @@
   },
   {
     "path": "pathing/敌人与魔物/蕈兽",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/C-01-11011",
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/蕴光异兽",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/evildoer12138"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/遗迹守卫",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/xwsqy6"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/遗迹机兵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/baixi232310"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/遗迹龙兽",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/部族龙形武士",
@@ -777,19 +1162,28 @@
   },
   {
     "path": "pathing/敌人与魔物/野伏众/野伏众@XS",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/xwsqy6"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/野伏众/野伏众@提瓦特钓鱼玳师",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/野伏众",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/xwsqy6",
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/镀金旅团",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/baixi232310"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/隙境原体",
@@ -797,11 +1191,15 @@
   },
   {
     "path": "pathing/敌人与魔物/霜夜灵嗣",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/evildoer12138"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/飘浮灵/飘浮灵@baixi",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/baixi232310"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/飘浮灵/飘浮灵@san",
@@ -809,15 +1207,23 @@
   },
   {
     "path": "pathing/敌人与魔物/飘浮灵/飘浮灵@提瓦特钓鱼玳师",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/飘浮灵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/baixi232310",
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/飞萤",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish",
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/骗骗花/骗骗花@san",
@@ -825,31 +1231,59 @@
   },
   {
     "path": "pathing/敌人与魔物/骗骗花/骗骗花@提瓦特钓鱼玳师",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/骗骗花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/魔像禁卫",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/黑蛇众",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/龙蜥",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/baixi232310"
+    ]
   },
   {
     "path": "pathing/敌人与魔物",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121",
+      "https://github.com/vulgar-rustic",
+      "https://github.com/xwsqy6",
+      "https://github.com/ddaodan",
+      "https://github.com/evildoer12138",
+      "https://github.com/Traveler07",
+      "https://github.com/jidingcai",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/Tooltingsu",
+      "https://github.com/C-01-11011",
+      "https://github.com/FuYeqi",
+      "https://github.com/Hijiwos",
+      "https://github.com/baixi232310",
+      "https://github.com/this-Fish",
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "pathing/矿物/星银矿石",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/矿物/水晶块/水晶块@忆雪晴/1.稳定",
@@ -865,55 +1299,86 @@
   },
   {
     "path": "pathing/矿物/水晶块/水晶块[钟离版]@愚溪",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Kupder",
+      "https://github.com/mfkvfhpdx"
+    ]
   },
   {
     "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山/层岩巨渊·地下矿区",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
   },
   {
     "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山/沉玉谷",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
   },
   {
     "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山/璃月",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
   },
   {
     "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山/蒙德",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
   },
   {
     "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
   },
   {
     "path": "pathing/矿物/水晶块/须弥纳塔地区大剑@芝士贝果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/矿物/水晶块",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Kupder",
+      "https://github.com/mfkvfhpdx",
+      "https://github.com/RRRR623",
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/矿物/白铁块/富集路线@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/矿物/白铁块",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/矿物/紫晶块/紫晶块[大剑]@蜜柑魚",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/矿物/紫晶块/紫晶块[钟离版]@mfkvfhpdx",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/mfkvfhpdx"
+    ]
   },
   {
     "path": "pathing/矿物/紫晶块",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish",
+      "https://github.com/mfkvfhpdx"
+    ]
   },
   {
     "path": "pathing/矿物/萃凝晶/枫丹[钟离版]@cy",
@@ -921,7 +1386,9 @@
   },
   {
     "path": "pathing/矿物/萃凝晶/枫丹水下@芝士贝果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/矿物/萃凝晶/纳塔[钟离版]@成成",
@@ -929,167 +1396,273 @@
   },
   {
     "path": "pathing/矿物/萃凝晶/萃凝晶-火神赶路-大剑@无限不循环",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/non-repeating001",
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/矿物/萃凝晶",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel",
+      "https://github.com/non-repeating001"
+    ]
   },
   {
     "path": "pathing/矿物/虹滴晶",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/矿物",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/Kupder",
+      "https://github.com/mfkvfhpdx",
+      "https://github.com/RRRR623",
+      "https://github.com/cheese-bagel",
+      "https://github.com/this-Fish",
+      "https://github.com/non-repeating001"
+    ]
   },
   {
     "path": "pathing/其他/成就/天动万象/荒岛朝圣指南",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/其他/成就/天动万象",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/其他/成就/尘世巡游·第五辑_大世界探索收集/恰卡纳的悬枝",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/其他/成就/尘世巡游·第五辑_大世界探索收集/温泉诞生之日",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/其他/成就/尘世巡游·第五辑_大世界探索收集",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/其他/成就/挑战者·第二辑",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/其他/成就",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi"
+    ]
   },
   {
     "path": "pathing/其他/提瓦特钓鱼指南",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/evildoer12138",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/其他/木材伐木点",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Patrick-Ze"
+    ]
   },
   {
     "path": "pathing/其他",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Flower-MUYi",
+      "https://github.com/evildoer12138",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/Patrick-Ze"
+    ]
   },
   {
     "path": "pathing/食材与炼金/「冷鲜肉」/「冷鲜肉」[迪希雅]@密柑魚",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/食材与炼金/「冷鲜肉」",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/食材与炼金/久雨莲/有草神@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/久雨莲",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/冰雾花花朵/迪希雅精简版",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/冰雾花花朵/通用无战斗版",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/冰雾花花朵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/堇瓜/有草神",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich",
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/食材与炼金/堇瓜",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich",
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/食材与炼金/墩墩桃",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jhkif"
+    ]
   },
   {
     "path": "pathing/食材与炼金/夏槲果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/奇异的「牙齿」",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/宿影花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/1004452714"
+    ]
   },
   {
     "path": "pathing/食材与炼金/寒涌石",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/食材与炼金/提瓦特食材一条龙/AA蒙德食材@MissDan",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisDandan23"
+    ]
   },
   {
     "path": "pathing/食材与炼金/提瓦特食材一条龙/BB璃月食材@MissDan",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisDandan23"
+    ]
   },
   {
     "path": "pathing/食材与炼金/提瓦特食材一条龙/CC稻妻食材@MissDan",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisDandan23",
+      "https://github.com/Strix-nivicolum"
+    ]
   },
   {
     "path": "pathing/食材与炼金/提瓦特食材一条龙/DD须弥食材@MissDan",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisDandan23"
+    ]
   },
   {
     "path": "pathing/食材与炼金/提瓦特食材一条龙/EE枫丹食材@MissDan",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisDandan23"
+    ]
   },
   {
     "path": "pathing/食材与炼金/提瓦特食材一条龙/GG挪德卡莱食材@芝麻糊",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisDandan23"
+    ]
   },
   {
     "path": "pathing/食材与炼金/提瓦特食材一条龙",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisDandan23",
+      "https://github.com/Strix-nivicolum"
+    ]
   },
   {
     "path": "pathing/食材与炼金/日落果/万叶@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/日落果/无草神@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/食材与炼金/日落果/有草神@今天下雨w",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/aqing11520"
+    ]
   },
   {
     "path": "pathing/食材与炼金/日落果/有草神@灰林鸮",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum",
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/日落果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685",
+      "https://github.com/Tooltingsu",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/aqing11520",
+      "https://github.com/Strix-nivicolum",
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/晶蝶",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Limint"
+    ]
   },
   {
     "path": "pathing/食材与炼金/松果",
@@ -1113,43 +1686,67 @@
   },
   {
     "path": "pathing/食材与炼金/枣椰/有草神@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/枣椰/有草神@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/枣椰",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/树莓/树莓@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/树莓/树莓@风埠&未知作者&抓不住我",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jhkif"
+    ]
   },
   {
     "path": "pathing/食材与炼金/树莓",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685",
+      "https://github.com/jhkif"
+    ]
   },
   {
     "path": "pathing/食材与炼金/汐藻",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/沉玉仙茗/沉玉仙茗@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/沉玉仙茗/沉玉仙茗@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/沉玉仙茗",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/泡泡桔/万叶版@白白喵",
@@ -1157,31 +1754,46 @@
   },
   {
     "path": "pathing/食材与炼金/泡泡桔/泡泡桔@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/泡泡桔",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/海草/海草@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/海草/海草@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "QQ:867064817; Q群:785263255"
+    ]
   },
   {
     "path": "pathing/食材与炼金/海草",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "QQ:867064817; Q群:785263255"
+    ]
   },
   {
     "path": "pathing/食材与炼金/澄晶实/纳西妲收集@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/澄晶实",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/烈焰花花蕊",
@@ -1193,35 +1805,52 @@
   },
   {
     "path": "pathing/食材与炼金/烛伞蘑菇/有草神@SmomoL",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/SmomoL"
+    ]
   },
   {
     "path": "pathing/食材与炼金/烛伞蘑菇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/SmomoL"
+    ]
   },
   {
     "path": "pathing/食材与炼金/烬芯花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/爱可菲",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/HZYgrandma"
+    ]
   },
   {
     "path": "pathing/食材与炼金/瓦雷莎家的果园/万叶采集@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/瓦雷莎家的果园/纳西妲采集@D捣蛋",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/食材与炼金/瓦雷莎家的果园",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/食材与炼金/甜甜花/甜甜花@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/甜甜花/甜甜花@白白喵",
@@ -1229,23 +1858,34 @@
   },
   {
     "path": "pathing/食材与炼金/甜甜花/甜甜花全收集@ddaodan",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/食材与炼金/甜甜花",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "pathing/食材与炼金/电气水晶/电气水晶115个无战斗版",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/aqing11520"
+    ]
   },
   {
     "path": "pathing/食材与炼金/电气水晶",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/aqing11520"
+    ]
   },
   {
     "path": "pathing/食材与炼金/白灵果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/白萝卜",
@@ -1253,43 +1893,67 @@
   },
   {
     "path": "pathing/食材与炼金/禽肉/禽肉@提瓦特钓鱼玳师",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "pathing/食材与炼金/禽肉/禽肉砂糖@灰林鸮",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum"
+    ]
   },
   {
     "path": "pathing/食材与炼金/禽肉",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos",
+      "https://github.com/Strix-nivicolum"
+    ]
   },
   {
     "path": "pathing/食材与炼金/竹笋",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum",
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/红果果菇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/HZYgrandma"
+    ]
   },
   {
     "path": "pathing/食材与炼金/纳塔食材一条龙",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum"
+    ]
   },
   {
     "path": "pathing/食材与炼金/胡萝卜",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish",
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/苦种",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/苹果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/茉洁草",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/食材与炼金/莲蓬/无草神@寰宇",
@@ -1297,27 +1961,39 @@
   },
   {
     "path": "pathing/食材与炼金/莲蓬/有草神@不瘦五十斤不改名",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/莲蓬",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/薄荷/全收集@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/薄荷/效率版@Tool_tingsu",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/薄荷",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/食材与炼金/蘑菇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/蜥蜴尾巴",
@@ -1325,35 +2001,55 @@
   },
   {
     "path": "pathing/食材与炼金/螃蟹/螃蟹@今天下雨w",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/aqing11520"
+    ]
   },
   {
     "path": "pathing/食材与炼金/螃蟹/螃蟹@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685",
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/食材与炼金/螃蟹/螃蟹@芝士贝果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/食材与炼金/螃蟹",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/aqing11520",
+      "https://github.com/taotao568685",
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/食材与炼金/金鱼草/金鱼草@曦",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/食材与炼金/金鱼草/金鱼草@白白喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/金鱼草",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cx05121",
+      "https://github.com/taotao568685"
+    ]
   },
   {
     "path": "pathing/食材与炼金/青蛙/青蛙60个@今天下雨w",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/aqing11520"
+    ]
   },
   {
     "path": "pathing/食材与炼金/青蛙/青蛙@生活不能自理的qu",
@@ -1361,15 +2057,21 @@
   },
   {
     "path": "pathing/食材与炼金/青蛙",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/aqing11520"
+    ]
   },
   {
     "path": "pathing/食材与炼金/须弥蔷薇",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/颗粒果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
   },
   {
     "path": "pathing/食材与炼金/香辛果/有草神@玛卡巴卡",
@@ -1377,11 +2079,15 @@
   },
   {
     "path": "pathing/食材与炼金/香辛果/香辛果@起个名字好难的喵",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/食材与炼金/香辛果",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/食材与炼金/马尾/无草神@忆雪晴",
@@ -1397,7 +2103,9 @@
   },
   {
     "path": "pathing/食材与炼金/鱼肉",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
   },
   {
     "path": "pathing/食材与炼金/鳅鳅宝玉",
@@ -1409,11 +2117,19 @@
   },
   {
     "path": "pathing/食材与炼金/鸟蛋/鸟蛋@呱呱z",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum",
+      "https://github.com/PanZic",
+      "https://github.com/jidingcai",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "pathing/食材与炼金/鸟蛋/鸟蛋@灰林鸮",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum",
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "pathing/食材与炼金/鸟蛋/鸟蛋@白白喵",
@@ -1421,15 +2137,84 @@
   },
   {
     "path": "pathing/食材与炼金/鸟蛋",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum",
+      "https://github.com/PanZic",
+      "https://github.com/jidingcai",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "pathing/食材与炼金",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish",
+      "https://github.com/Tooltingsu",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/jhkif",
+      "https://github.com/taotao568685",
+      "https://github.com/1004452714",
+      "https://github.com/cheese-bagel",
+      "https://github.com/MisDandan23",
+      "https://github.com/Strix-nivicolum",
+      "https://github.com/aqing11520",
+      "https://github.com/PanZic",
+      "https://github.com/Limint",
+      "QQ:867064817; Q群:785263255",
+      "https://github.com/SmomoL",
+      "https://github.com/HZYgrandma",
+      "https://github.com/ddaodan",
+      "https://github.com/Hijiwos",
+      "https://github.com/cx05121",
+      "https://github.com/RRRR623",
+      "https://github.com/jidingcai",
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "pathing",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish",
+      "https://github.com/jiegedabaobei",
+      "https://github.com/Bedrockx",
+      "https://github.com/mfkvfhpdx",
+      "https://github.com/Tooltingsu",
+      "https://github.com/1004452714",
+      "https://github.com/jbcaaa",
+      "https://github.com/cx05121",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/taotao568685",
+      "https://github.com/cheese-bagel",
+      "https://github.com/ryanlin594529",
+      "https://github.com/KRdingsan",
+      "https://github.com/ddaodan",
+      "https://github.com/Flower-MUYi",
+      "https://github.com/xd1145",
+      "https://github.com/PanZic",
+      "https://github.com/physligl",
+      "https://github.com/pkjsjq",
+      "https://github.com/Limint",
+      "QQ:867064817; Q群:785263255",
+      "https://github.com/Traveler07",
+      "https://github.com/vulgar-rustic",
+      "https://github.com/xwsqy6",
+      "https://github.com/evildoer12138",
+      "https://github.com/jidingcai",
+      "https://github.com/C-01-11011",
+      "https://github.com/FuYeqi",
+      "https://github.com/Hijiwos",
+      "https://github.com/baixi232310",
+      "https://github.com/Kupder",
+      "https://github.com/RRRR623",
+      "https://github.com/non-repeating001",
+      "https://github.com/Patrick-Ze",
+      "https://github.com/jhkif",
+      "https://github.com/MisDandan23",
+      "https://github.com/Strix-nivicolum",
+      "https://github.com/aqing11520",
+      "https://github.com/SmomoL",
+      "https://github.com/HZYgrandma"
+    ]
   },
   {
     "path": "js/1Remote_RDP_Autoreconnection",
