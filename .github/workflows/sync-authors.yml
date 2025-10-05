@@ -1,0 +1,45 @@
+name: 同步作者信息
+
+on:
+  schedule:
+    # 每天北京时间 18:30 运行 (UTC 10:30)
+    - cron: '30 10 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync-authors:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+      
+    - name: 设置 Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: 安装依赖
+      run: npm install
+      
+    - name: 同步作者信息
+      run: node sync_authors.js
+      
+    - name: 检查文件变更
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: 提交变更
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add author_mapping.json
+        git commit -m "自动更新作者映射信息 [skip ci]"
+        git push

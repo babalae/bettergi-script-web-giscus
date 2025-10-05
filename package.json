@@ -2,5 +2,9 @@
   "name": "comment-notification",
   "dependencies": {
     "@octokit/core": "^5.0.0"
+  },
+  "scripts": {
+    "sync": "node sync_authors.js",
+    "notify": "node notify.js"
   }
 }

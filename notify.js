@@ -15,8 +15,6 @@ async function notifyAuthors() {
     const { GITHUB_EVENT_PATH } = process.env;
     const event = JSON.parse(fs.readFileSync(GITHUB_EVENT_PATH, 'utf8'));
 
-    // console.log('Event data:', JSON.stringify(event, null, 2));
-
     const discussion = event.discussion;
     const comment = event.comment;
 
@@ -77,11 +75,11 @@ async function notifyAuthors() {
     }).join(' ');
 
     // 构建通知评论
-    const notificationComment = `🔔 **脚本评论通知**\n\n${mentions}\n\n📁 **脚本路径：** \`${scriptPath}\`\n💬 **评论内容：**\n${comment.body}\n\n🔗 **讨论链接：** [#${discussion.number}](${discussion.html_url})`;
+    const notificationComment = `🔔 **脚本评论通知**\n\n${mentions}\n\n📁 **脚本路径：** \n\`${scriptPath}\`\n💬 **评论内容：**\n${comment.body}\n\n🔗 **评论区链接：** [#${discussion.number}](${discussion.html_url})`;
 
     // 发送通知
     try {
-        console.log('准备发送通知到讨论区 #2');
+        console.log('准备发送通知到讨论区 #21');
         console.log('通知内容:', notificationComment);
         
         // 使用 GraphQL API 创建讨论评论
@@ -96,7 +94,7 @@ async function notifyAuthors() {
             }
         `;
 
-        // 首先获取讨论区 #2 的 node_id
+        // 获取讨论区 #2 的 node_id
         const discussionQuery = `
             query GetDiscussion($owner: String!, $repo: String!, $number: Int!) {
                 repository(owner: $owner, name: $repo) {
@@ -108,17 +106,17 @@ async function notifyAuthors() {
         `;
 
         const discussionResponse = await octokit.graphql(discussionQuery, {
-            owner: 'zaodonganqi',
+            owner: 'babalae',
             repo: 'bettergi-script-web-giscus',
-            number: 2
+            number: 21
         });
 
         if (!discussionResponse.repository?.discussion?.id) {
-            throw new Error('未找到讨论区 #2');
+            throw new Error('未找到讨论区 #21');
         }
 
         const discussionId = discussionResponse.repository.discussion.id;
-        console.log('讨论区 #2 的 ID:', discussionId);
+        console.log('讨论区 #21 的 ID:', discussionId);
 
         const variables = {
             input: {
