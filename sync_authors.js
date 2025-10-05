@@ -40,7 +40,7 @@ function collectAuthorsFromNode(node, currentPath = '', isPathingRoot = false) {
 
     // 收集当前节点的作者信息
     if (node.type === 'file') {
-        // 在 pathing 目录下不处理 file 类型
+        // 在 pathing 目录下不创建 file 路径条目，但收集作者信息用于父目录
         if (!isInPathing) {
             const authorLinks = node.authors
                 ? node.authors
@@ -61,8 +61,11 @@ function collectAuthorsFromNode(node, currentPath = '', isPathingRoot = false) {
                 
                 // 合并子节点的作者
                 for (const [path, authors] of childResults.pathAuthors) {
-                    pathAuthors.set(path, authors);
-                    // 将作者链接添加到当前目录的集合中
+                    // 在 pathing 目录下，不添加 file 类型的路径
+                    if (!isInPathing || child.type !== 'file') {
+                        pathAuthors.set(path, authors);
+                    }
+                    // 将作者链接添加到当前目录的集合中（包括 file 类型的作者）
                     authors.forEach(link => allAuthorLinks.add(link));
                 }
             }
