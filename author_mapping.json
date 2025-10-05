@@ -2218,135 +2218,217 @@
   },
   {
     "path": "js/1Remote_RDP_Autoreconnection",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
   },
   {
     "path": "js/AAA-Artifacts-Bulk-Supply",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "js/AEscoffier_chef",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "js/AIPC珍贵宝箱无限刷",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich",
+      "https://github.com/HZYgrandma"
+    ]
   },
   {
     "path": "js/AbundantOre",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "js/AcceleratedEditionSwitchParty",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich",
+      "https://github.com/physligl"
+    ]
   },
   {
     "path": "js/ActivitySwitch",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Kirito520Asuna"
+    ]
   },
   {
     "path": "js/AllFowlTeyvat",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "js/ArtifactsGroupPurchasing",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "js/Auto Theft NPC & 原食",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/TingYu-lulumi",
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "js/AutoArtifactsSalvageOrDestroy（1-4star）",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/24qiaoyue"
+    ]
   },
   {
     "path": "js/AutoArtifacts_A_B_Extra",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Yang-z"
+    ]
   },
   {
     "path": "js/AutoCode",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/zaodonganqi"
+    ]
   },
   {
     "path": "js/AutoCommission",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/LX666-666"
+    ]
   },
   {
     "path": "js/AutoCrystalfly",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/huiyadanli"
+    ]
   },
   {
     "path": "js/AutoDomain",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/huiyadanli"
+    ]
   },
   {
     "path": "js/AutoEnter",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "js/AutoFishingTeyvat",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "js/AutoFontaineLeyLine",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/kaedelcb",
+      "https://github.com/ddaodan",
+      "https://github.com/Flatmirrr",
+      "https://github.com/physligl"
+    ]
   },
   {
     "path": "js/AutoFriendshipEvilBaresItsFangsGetRawMeat",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich",
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/AutoFriendshipFight",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/physligl"
+    ]
   },
   {
     "path": "js/AutoFriendship鸡腿",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/physligl"
+    ]
   },
   {
     "path": "js/AutoHoeingOneDragon",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "js/AutoLeyLineOutcrop",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan",
+      "https://github.com/Flatmirrr",
+      "https://github.com/physligl",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/RRRR623",
+      "https://github.com/214-hanyan"
+    ]
   },
   {
     "path": "js/AutoMonday",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiangziyanowo"
+    ]
   },
   {
     "path": "js/AutoNobushi",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "js/AutoPathingLoader-MultiUser",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "js/AutoPermission",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Traveler07"
+    ]
   },
   {
     "path": "js/AutoPickLitter",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/guyou45"
+    ]
   },
   {
     "path": "js/AutoRefinedCondensationResin",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "js/AutoSmithyOre",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/lwwens"
+    ]
   },
   {
     "path": "js/AutoStoryLoader",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/LX666-666"
+    ]
   },
   {
     "path": "js/AutoStygianOnslaught",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/kaedelcb"
+    ]
   },
   {
     "path": "js/AutoSwitchRoles",
@@ -2354,71 +2436,110 @@
   },
   {
     "path": "js/AutoTranscribePathing",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/LX666-666"
+    ]
   },
   {
     "path": "js/AutoWoodcutting-Pathing",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Limint",
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "js/AutoYuanQin",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos",
+      "https://github.com/TheHeartFickle"
+    ]
   },
   {
     "path": "js/BuyOmni-UbiquityNet",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/SophieZ22",
+      "https://github.com/miludelongwang",
+      "https://github.com/physligl"
+    ]
   },
   {
     "path": "js/CD-Aware-AutoGather",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Patrick-Ze",
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "js/Ciallo",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "js/ComputerBlower",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "js/CrystalflyTrap",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "js/DSTCG",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
   },
   {
     "path": "js/DestroyArtifactsForMora",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "js/DoubleFriendshipEncounterPoints",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "js/EscofierKitchenContraption",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/kaedelcb"
+    ]
   },
   {
     "path": "js/ExitGame",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Because66666"
+    ]
   },
   {
     "path": "js/ExitGametoDesktop",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MeisterJ"
+    ]
   },
   {
     "path": "js/FeatherFalling",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/physligl"
+    ]
   },
   {
     "path": "js/FollowsPet",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ftnfurina"
+    ]
   },
   {
     "path": "js/FurinaSalonSolitaireOusiaDefeatLocalLegend",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich"
+    ]
   },
   {
     "path": "js/HoeingPathingTest",
@@ -2426,23 +2547,33 @@
   },
   {
     "path": "js/HolyRelicsUp",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Kirito520Asuna"
+    ]
   },
   {
     "path": "js/JoinFriendsWorld",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ftnfurina"
+    ]
   },
   {
     "path": "js/Language",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
   },
   {
     "path": "js/Mail",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/HZYgrandma"
+    ]
   },
   {
     "path": "js/NaiLong",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/HZYgrandma"
+    ]
   },
   {
     "path": "js/Notify",
@@ -2450,91 +2581,141 @@
   },
   {
     "path": "js/OCR切换武器",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
   },
   {
     "path": "js/OCR读取主界面队伍",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/1xygyty1"
+    ]
   },
   {
     "path": "js/OCR读取当前抽卡资源并发送通知",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/1xygyty1"
+    ]
   },
   {
     "path": "js/OCR读取当前摩拉记录并发送通知",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
   },
   {
     "path": "js/OCR购买食材",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
   },
   {
     "path": "js/OcrMonsterNum",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx",
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "js/ParametricTrans",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/kaedelcb"
+    ]
   },
   {
     "path": "js/PurchaseArtifacts",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049",
+      "https://github.com/skyflag2022"
+    ]
   },
   {
     "path": "js/QuickSwapGadgets",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Patrick-Ze"
+    ]
   },
   {
     "path": "js/QuitGame",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/HZYgrandma"
+    ]
   },
   {
     "path": "js/RecognitionDemo",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/huiyadanli"
+    ]
   },
   {
     "path": "js/SetTime",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Kupder"
+    ]
   },
   {
     "path": "js/SetTimeMinute",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Limint"
+    ]
   },
   {
     "path": "js/Shutdown",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/HZYgrandma"
+    ]
   },
   {
     "path": "js/TCGQuickProficiency",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Patrick-Ze"
+    ]
   },
   {
     "path": "js/TeyvatScanner",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx",
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "js/Tool_mint",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "js/TravelersTales",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ddaodan",
+      "https://github.com/physligl",
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "js/WeeklyBoss",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/YNF-AutoEat",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiangziyanowo",
+      "https://github.com/guyou45"
+    ]
   },
   {
     "path": "js/YuanQin",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/shilic"
+    ]
   },
   {
     "path": "js/waitUntilSpecifiedTime",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "js/一条龙不含自动副本+尘歌壶版",
@@ -2542,15 +2723,22 @@
   },
   {
     "path": "js/一条龙领奖无树脂(用于周本、首领刷取)+尘歌壶",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/七圣召唤七日历练全自动",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049",
+      "https://github.com/Patrick-Ze"
+    ]
   },
   {
     "path": "js/七圣召唤角色邀约全自动",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/传送至指定合成台",
@@ -2558,35 +2746,52 @@
   },
   {
     "path": "js/使用历练点完成每日委托",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/MisakaAldrich",
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "js/使用料理",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/全队自动回满大招能量",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/分解圣遗物 带背包过期弹窗自动点击",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
   },
   {
     "path": "js/切换主角元素",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "js/切换画质",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
   },
   {
     "path": "js/切换账号(OCR)版本",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "js/切换账号(非OCR)版本",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/KRdingsan"
+    ]
   },
   {
     "path": "js/切换账号Dropdown",
@@ -2594,19 +2799,27 @@
   },
   {
     "path": "js/副本选择难度",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Rosefinch-zzz"
+    ]
   },
   {
     "path": "js/多层文件夹处理",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "js/尘歌壶一条龙",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/miludelongwang"
+    ]
   },
   {
     "path": "js/尘歌壶洞天百宝购买",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/miludelongwang"
+    ]
   },
   {
     "path": "js/幻想真境剧诗抢大佬的满命角色",
@@ -2614,47 +2827,71 @@
   },
   {
     "path": "js/恢复默认键位设置",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/214-hanyan"
+    ]
   },
   {
     "path": "js/批量讨伐角色养成材料BOSS",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/1004452714"
+    ]
   },
   {
     "path": "js/提瓦特百货商店",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Kotagan"
+    ]
   },
   {
     "path": "js/料理制作及食材加工",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049",
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "js/模板匹配区域坐标输出",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
   },
   {
     "path": "js/每月自动兑换抽卡资源",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/注销计算机用户",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/TingYu-lulumi"
+    ]
   },
   {
     "path": "js/消耗复活料理",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "js/烹饪熟练度一键拉满",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/纪行周常-10个boss一条龙",
-    "authorLinks": []
+    "authorLinks": [
+      "https://gitee.com/wangjian0327",
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "js/纪行周常-15次秘境一条龙",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "js/背包材料统计",
@@ -2662,39 +2899,58 @@
   },
   {
     "path": "js/自动循环使用料理",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "js/自动购买每天&3天&每周刷新食材",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "js/自动领取成就奖励",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/角色养成一条龙",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js/计算机",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai"
+    ]
   },
   {
     "path": "js/设置时间并跳过调整动画",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Limint"
+    ]
   },
   {
     "path": "js/采集cd管理",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "js/铁匠铺",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jidingcai",
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "js/领取洞天宝钱和好感",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jhkif"
+    ]
   },
   {
     "path": "js/食材加工",
@@ -2706,11 +2962,60 @@
   },
   {
     "path": "js/首领讨伐一条龙",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/5117600049"
+    ]
   },
   {
     "path": "js",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/RRRR623",
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei",
+      "https://github.com/Hijiwos",
+      "https://github.com/MisakaAldrich",
+      "https://github.com/HZYgrandma",
+      "https://github.com/cheese-bagel",
+      "https://github.com/physligl",
+      "https://github.com/Kirito520Asuna",
+      "https://github.com/TingYu-lulumi",
+      "https://github.com/this-Fish",
+      "https://github.com/24qiaoyue",
+      "https://github.com/Yang-z",
+      "https://github.com/Tooltingsu",
+      "https://github.com/zaodonganqi",
+      "https://github.com/LX666-666",
+      "https://github.com/huiyadanli",
+      "https://github.com/kaedelcb",
+      "https://github.com/ddaodan",
+      "https://github.com/Flatmirrr",
+      "https://github.com/5117600049",
+      "https://github.com/214-hanyan",
+      "https://github.com/jiangziyanowo",
+      "https://github.com/Traveler07",
+      "https://github.com/guyou45",
+      "https://github.com/lwwens",
+      "https://github.com/Limint",
+      "https://github.com/TheHeartFickle",
+      "https://github.com/SophieZ22",
+      "https://github.com/miludelongwang",
+      "https://github.com/Patrick-Ze",
+      "https://github.com/Because66666",
+      "https://github.com/MeisterJ",
+      "https://github.com/ftnfurina",
+      "https://github.com/JJMdzh",
+      "https://github.com/1xygyty1",
+      "https://github.com/skyflag2022",
+      "https://github.com/Kupder",
+      "https://github.com/shilic",
+      "https://github.com/KRdingsan",
+      "https://github.com/Rosefinch-zzz",
+      "https://github.com/1004452714",
+      "https://github.com/Kotagan",
+      "https://github.com/jidingcai",
+      "https://gitee.com/wangjian0327",
+      "https://github.com/jhkif"
+    ]
   },
   {
     "path": "combat/014.克皇夏托-锄地限制位移-晴雪精调版.txt",
