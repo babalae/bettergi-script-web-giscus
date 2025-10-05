@@ -28,10 +28,13 @@ jobs:
     - name: 检查文件变更
       id: verify-changed-files
       run: |
-        if [ -n "$(git status --porcelain)" ]; then
-          echo "changed=true" >> $GITHUB_OUTPUT
-        else
+        # 检查 author_mapping.json 是否有变更
+        if git diff --quiet author_mapping.json; then
           echo "changed=false" >> $GITHUB_OUTPUT
+          echo "author_mapping.json 没有变更"
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "author_mapping.json 有变更"
         fi
         
     - name: 提交变更
@@ -42,3 +45,8 @@ jobs:
         git add author_mapping.json
         git commit -m "自动更新作者映射信息 [skip ci]"
         git push
+        
+    - name: 无变更提示
+      if: steps.verify-changed-files.outputs.changed == 'false'
+      run: |
+        echo "author_mapping.json 没有变更，跳过提交"

@@ -38,18 +38,22 @@ function collectAuthorsFromNode(node, currentPath = '', isPathingRoot = false) {
     // 判断是否在 pathing 目录下
     const isInPathing = isPathingRoot || currentPath.startsWith('pathing');
 
-    // 收集当前节点的作者信息
     if (node.type === 'file') {
-        // 在 pathing 目录下不创建 file 路径条目，但收集作者信息用于父目录
+        // 收集文件的作者信息
+        const authorLinks = node.authors
+            ? node.authors
+                .filter(author => author.link && author.link.trim())
+                .map(author => author.link)
+            : [];
+        
+        // 在 pathing 目录下不创建 file 路径条目，但返回作者信息供父目录使用
         if (!isInPathing) {
-            const authorLinks = node.authors
-                ? node.authors
-                    .filter(author => author.link && author.link.trim())
-                    .map(author => author.link)
-                : [];
-            
             pathAuthors.set(nodePath, authorLinks);
         }
+        
+        // 返回作者信息，供父目录收集
+        return { pathAuthors, authorLinks };
+        
     } else if (node.type === 'directory') {
         // 对于 directory 类型，收集所有子节点的作者
         const allAuthorLinks = new Set();
@@ -59,23 +63,27 @@ function collectAuthorsFromNode(node, currentPath = '', isPathingRoot = false) {
             for (const child of node.children) {
                 const childResults = collectAuthorsFromNode(child, nodePath, isPathingRoot);
                 
-                // 合并子节点的作者
+                // 合并子节点的路径和作者
                 for (const [path, authors] of childResults.pathAuthors) {
-                    // 在 pathing 目录下，不添加 file 类型的路径
-                    if (!isInPathing || child.type !== 'file') {
-                        pathAuthors.set(path, authors);
-                    }
-                    // 将作者链接添加到当前目录的集合中（包括 file 类型的作者）
-                    authors.forEach(link => allAuthorLinks.add(link));
+                    pathAuthors.set(path, authors);
+                }
+                
+                // 收集子节点的作者信息（包括 file 类型的作者）
+                if (childResults.authorLinks) {
+                    childResults.authorLinks.forEach(link => allAuthorLinks.add(link));
                 }
             }
         }
         
         // 为当前目录节点创建条目
-        pathAuthors.set(nodePath, Array.from(allAuthorLinks));
+        const directoryAuthorLinks = Array.from(allAuthorLinks);
+        pathAuthors.set(nodePath, directoryAuthorLinks);
+        
+        // 返回作者信息，供父目录收集
+        return { pathAuthors, authorLinks: directoryAuthorLinks };
     }
 
-    return { pathAuthors };
+    return { pathAuthors, authorLinks: [] };
 }
 
 function buildAuthorMapping(repoData) {
