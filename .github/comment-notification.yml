@@ -1,0 +1,28 @@
+name: Comment Notification
+
+on:
+  discussion_comment:
+    types: [created, edited]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'discussion_comment'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Notify authors
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NOTIFICATION_DISCUSSION_ID: ${{ secrets.NOTIFICATION_DISCUSSION_ID }}
+        run: node notify.js

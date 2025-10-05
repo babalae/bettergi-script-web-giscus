@@ -1,0 +1,6 @@
+{
+  "name": "comment-notification",
+  "dependencies": {
+    "@octokit/rest": "^20.0.0"
+  }
+}
