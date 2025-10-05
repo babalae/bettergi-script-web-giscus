@@ -1,4 +1,4 @@
-name: Comment Notification
+name: 新评论通知作者
 
 on:
   discussion_comment:
