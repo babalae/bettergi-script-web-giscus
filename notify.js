@@ -9,11 +9,30 @@ async function notifyAuthors() {
     const { GITHUB_EVENT_PATH } = process.env;
     const event = JSON.parse(fs.readFileSync(GITHUB_EVENT_PATH, 'utf8'));
 
+    console.log('Event data:', JSON.stringify(event, null, 2));
+
     const discussion = event.discussion;
     const comment = event.discussion_comment;
 
+    // 检查必要的数据是否存在
+    if (!discussion) {
+        console.log('未找到 discussion 数据');
+        return;
+    }
+
+    if (!comment) {
+        console.log('未找到 comment 数据');
+        return;
+    }
+
+    if (!comment.user) {
+        console.log('未找到 comment.user 数据');
+        return;
+    }
+
     // 跳过机器人评论
     if (comment.user.type === 'Bot') {
+        console.log('跳过机器人评论');
         return;
     }
 
@@ -30,7 +49,14 @@ async function notifyAuthors() {
     }
 
     // 读取作者映射
-    const authorMapping = JSON.parse(fs.readFileSync('author_mapping.json', 'utf8'));
+    let authorMapping;
+    try {
+        authorMapping = JSON.parse(fs.readFileSync('author_mapping.json', 'utf8'));
+    } catch (error) {
+        console.log('读取 author_mapping.json 失败:', error.message);
+        return;
+    }
+
     const scriptInfo = authorMapping.find(item => item.path === scriptPath);
 
     if (!scriptInfo || !scriptInfo.authorLinks.length) {
@@ -48,14 +74,22 @@ async function notifyAuthors() {
     const notificationComment = `🔔 **脚本评论通知**\n\n${mentions}\n\n📁 **脚本路径：** \`${scriptPath}\`\n💬 **评论内容：**\n${comment.body}\n\n🔗 **讨论链接：** [#${discussion.number}](${discussion.html_url})`;
 
     // 发送通知
-    await octokit.rest.discussions.createComment({
-        owner: 'zaodonganqi',
-        repo: 'bettergi-script-web-giscus',
-        discussion_number: 2,  // 直接指定讨论区ID
-        body: notificationComment,
-    });
+    try {
+        await octokit.rest.discussions.createComment({
+            owner: 'zaodonganqi',
+            repo: 'bettergi-script-web-giscus',
+            discussion_number: 2,  // 直接指定讨论区ID
+            body: notificationComment,
+        });
 
-    console.log(`已通知作者: ${scriptInfo.authorLinks.join(', ')}`);
+        console.log(`已通知作者: ${scriptInfo.authorLinks.join(', ')}`);
+    } catch (error) {
+        console.log('发送通知失败:', error.message);
+        if (error.response) {
+            console.log('API响应状态:', error.response.status);
+            console.log('API响应数据:', error.response.data);
+        }
+    }
 }
 
 function extractScriptPath(discussionTitle) {
@@ -76,4 +110,7 @@ function extractScriptPath(discussionTitle) {
     return null;
 }
 
-notifyAuthors().catch(console.error);
+notifyAuthors().catch(error => {
+    console.error('脚本执行失败:', error);
+    process.exit(1);
+});
