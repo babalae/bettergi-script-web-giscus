@@ -1,6 +1,12 @@
 const { Octokit } = require('@octokit/rest');
 const fs = require('fs');
 
+// 检查 GITHUB_TOKEN
+if (!process.env.GITHUB_TOKEN) {
+    console.error('GITHUB_TOKEN 环境变量未设置');
+    process.exit(1);
+}
+
 const octokit = new Octokit({
     auth: process.env.GITHUB_TOKEN,
 });
@@ -75,6 +81,13 @@ async function notifyAuthors() {
 
     // 发送通知
     try {
+        console.log('准备发送通知到讨论区 #2');
+        console.log('通知内容:', notificationComment);
+        
+        // 检查 octokit 对象
+        console.log('octokit.rest:', typeof octokit.rest);
+        console.log('octokit.rest.discussions:', typeof octokit.rest.discussions);
+        
         await octokit.rest.discussions.createComment({
             owner: 'zaodonganqi',
             repo: 'bettergi-script-web-giscus',
