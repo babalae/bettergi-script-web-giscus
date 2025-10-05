@@ -41,10 +41,10 @@ async function notifyAuthors() {
         return;
     }
 
-    // 从讨论标题提取脚本路径
-    const scriptPath = extractScriptPath(discussion.title);
+    // 直接使用讨论标题作为脚本路径
+    const scriptPath = discussion.title;
     if (!scriptPath) {
-        console.log('无法提取脚本路径');
+        console.log('未找到讨论标题');
         return;
     }
 
@@ -92,23 +92,6 @@ async function notifyAuthors() {
     }
 }
 
-function extractScriptPath(discussionTitle) {
-    // 支持多种标题格式
-    const patterns = [
-        /- (.+)$/,           // "脚本名 - /path/to/script.js"
-        /\[(.+)\]$/,         // "脚本名 [/path/to/script.js]"
-        /\((.+)\)$/,         // "脚本名 (/path/to/script.js)"
-    ];
-
-    for (const pattern of patterns) {
-        const match = discussionTitle.match(pattern);
-        if (match) {
-            return match[1].trim();
-        }
-    }
-
-    return null;
-}
 
 notifyAuthors().catch(error => {
     console.error('脚本执行失败:', error);
