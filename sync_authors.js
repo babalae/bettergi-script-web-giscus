@@ -4,7 +4,7 @@ const zlib = require('zlib');
 const path = require('path');
 
 async function downloadAndExtractRepoJson() {
-    const url = 'https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/release/repo.json.gz';
+    const url = 'https://raw.githubusercontent.com/babalae/bettergi-scripts-list/refs/heads/release/repo.json.gz';
     
     return new Promise((resolve, reject) => {
         https.get(url, (response) => {
