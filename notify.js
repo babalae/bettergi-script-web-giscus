@@ -9,10 +9,10 @@ async function notifyAuthors() {
     const { GITHUB_EVENT_PATH } = process.env;
     const event = JSON.parse(fs.readFileSync(GITHUB_EVENT_PATH, 'utf8'));
 
-    console.log('Event data:', JSON.stringify(event, null, 2));
+    // console.log('Event data:', JSON.stringify(event, null, 2));
 
     const discussion = event.discussion;
-    const comment = event.discussion_comment;
+    const comment = event.comment;
 
     // 检查必要的数据是否存在
     if (!discussion) {
