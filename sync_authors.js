@@ -29,37 +29,47 @@ async function downloadAndExtractRepoJson() {
     });
 }
 
-function collectAuthorsFromNode(node, currentPath = '') {
-    const authors = new Set();
+function collectAuthorsFromNode(node, currentPath = '', isPathingRoot = false) {
     const pathAuthors = new Map();
 
     // 构建当前路径
     const nodePath = currentPath ? `${currentPath}/${node.name}` : node.name;
 
-    // 如果是文件节点，收集作者信息
-    if (node.type === 'file' && node.authors) {
-        const authorLinks = node.authors
-            .filter(author => author.link && author.link.trim())
-            .map(author => author.link);
-        
-        if (authorLinks.length > 0) {
-            pathAuthors.set(nodePath, authorLinks);
-        } else {
-            // 有路径但没有有效作者链接的情况
-            pathAuthors.set(nodePath, []);
-        }
-    }
+    // 判断是否在 pathing 目录下
+    const isInPathing = isPathingRoot || currentPath.startsWith('pathing');
 
-    // 递归处理子节点
-    if (node.children && Array.isArray(node.children)) {
-        for (const child of node.children) {
-            const childResults = collectAuthorsFromNode(child, nodePath);
+    // 收集当前节点的作者信息
+    if (node.type === 'file') {
+        // 在 pathing 目录下不处理 file 类型
+        if (!isInPathing) {
+            const authorLinks = node.authors
+                ? node.authors
+                    .filter(author => author.link && author.link.trim())
+                    .map(author => author.link)
+                : [];
             
-            // 合并子节点的作者
-            for (const [path, authors] of childResults.pathAuthors) {
-                pathAuthors.set(path, authors);
+            pathAuthors.set(nodePath, authorLinks);
+        }
+    } else if (node.type === 'directory') {
+        // 对于 directory 类型，收集所有子节点的作者
+        const allAuthorLinks = new Set();
+        
+        // 递归收集子节点的作者
+        if (node.children && Array.isArray(node.children)) {
+            for (const child of node.children) {
+                const childResults = collectAuthorsFromNode(child, nodePath, isPathingRoot);
+                
+                // 合并子节点的作者
+                for (const [path, authors] of childResults.pathAuthors) {
+                    pathAuthors.set(path, authors);
+                    // 将作者链接添加到当前目录的集合中
+                    authors.forEach(link => allAuthorLinks.add(link));
+                }
             }
         }
+        
+        // 为当前目录节点创建条目
+        pathAuthors.set(nodePath, Array.from(allAuthorLinks));
     }
 
     return { pathAuthors };
@@ -71,7 +81,9 @@ function buildAuthorMapping(repoData) {
     // 处理 indexes 数组中的每个节点
     if (repoData.indexes && Array.isArray(repoData.indexes)) {
         for (const indexNode of repoData.indexes) {
-            const results = collectAuthorsFromNode(indexNode);
+            // 判断是否为 pathing 根节点
+            const isPathingRoot = indexNode.name === 'pathing';
+            const results = collectAuthorsFromNode(indexNode, '', isPathingRoot);
             
             // 合并结果
             for (const [path, authors] of results.pathAuthors) {
