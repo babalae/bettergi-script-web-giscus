@@ -1,4 +1,4 @@
-const { Octokit } = require('@octokit/rest');
+const { Octokit } = require('@octokit/core');
 const fs = require('fs');
 
 // 检查 GITHUB_TOKEN
@@ -84,23 +84,56 @@ async function notifyAuthors() {
         console.log('准备发送通知到讨论区 #2');
         console.log('通知内容:', notificationComment);
         
-        // 检查 octokit 对象
-        console.log('octokit.rest:', typeof octokit.rest);
-        console.log('octokit.rest.discussions:', typeof octokit.rest.discussions);
-        
-        await octokit.rest.discussions.createComment({
+        // 使用 GraphQL API 创建讨论评论
+        const mutation = `
+            mutation AddDiscussionComment($input: AddDiscussionCommentInput!) {
+                addDiscussionComment(input: $input) {
+                    comment {
+                        id
+                        url
+                    }
+                }
+            }
+        `;
+
+        // 首先获取讨论区 #2 的 node_id
+        const discussionQuery = `
+            query GetDiscussion($owner: String!, $repo: String!, $number: Int!) {
+                repository(owner: $owner, name: $repo) {
+                    discussion(number: $number) {
+                        id
+                    }
+                }
+            }
+        `;
+
+        const discussionResponse = await octokit.graphql(discussionQuery, {
             owner: 'zaodonganqi',
             repo: 'bettergi-script-web-giscus',
-            discussion_number: 2,  // 直接指定讨论区ID
-            body: notificationComment,
+            number: 2
         });
 
+        if (!discussionResponse.repository?.discussion?.id) {
+            throw new Error('未找到讨论区 #2');
+        }
+
+        const discussionId = discussionResponse.repository.discussion.id;
+        console.log('讨论区 #2 的 ID:', discussionId);
+
+        const variables = {
+            input: {
+                discussionId: discussionId,
+                body: notificationComment,
+            },
+        };
+
+        const response = await octokit.graphql(mutation, variables);
+        console.log('评论创建成功:', response.addDiscussionComment.comment.url);
         console.log(`已通知作者: ${scriptInfo.authorLinks.join(', ')}`);
     } catch (error) {
         console.log('发送通知失败:', error.message);
-        if (error.response) {
-            console.log('API响应状态:', error.response.status);
-            console.log('API响应数据:', error.response.data);
+        if (error.errors) {
+            console.log('GraphQL错误:', error.errors);
         }
     }
 }

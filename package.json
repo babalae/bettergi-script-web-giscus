@@ -1,6 +1,6 @@
 {
   "name": "comment-notification",
   "dependencies": {
-    "@octokit/rest": "^20.0.0"
+    "@octokit/core": "^5.0.0"
   }
 }
