@@ -25,4 +25,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NOTIFICATION_DISCUSSION_ID: ${{ secrets.NOTIFICATION_DISCUSSION_ID }}
-        run: node notify.js
+        run: node build/notify.js
