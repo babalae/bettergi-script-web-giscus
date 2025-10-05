@@ -58,6 +58,14 @@ function collectAuthorsFromNode(node, currentPath = '', isPathingRoot = false) {
         // 对于 directory 类型，收集所有子节点的作者
         const allAuthorLinks = new Set();
         
+        // 首先收集当前目录节点本身的作者信息
+        if (node.authors) {
+            const currentDirAuthorLinks = node.authors
+                .filter(author => author.link && author.link.trim())
+                .map(author => author.link);
+            currentDirAuthorLinks.forEach(link => allAuthorLinks.add(link));
+        }
+        
         // 递归收集子节点的作者
         if (node.children && Array.isArray(node.children)) {
             for (const child of node.children) {
@@ -68,7 +76,7 @@ function collectAuthorsFromNode(node, currentPath = '', isPathingRoot = false) {
                     pathAuthors.set(path, authors);
                 }
                 
-                // 收集子节点的作者信息（包括 file 类型的作者）
+                // 收集子节点的作者信息
                 if (childResults.authorLinks) {
                     childResults.authorLinks.forEach(link => allAuthorLinks.add(link));
                 }
