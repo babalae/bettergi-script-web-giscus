@@ -55,9 +55,9 @@ async function notifyAuthors() {
     // 读取作者映射
     let authorMapping;
     try {
-        authorMapping = JSON.parse(fs.readFileSync('author_mapping.json', 'utf8'));
+        authorMapping = JSON.parse(fs.readFileSync('assets/author_mapping.json', 'utf8'));
     } catch (error) {
-        console.log('读取 author_mapping.json 失败:', error.message);
+        console.log('读取 assets/author_mapping.json 失败:', error.message);
         return;
     }
 
@@ -75,7 +75,7 @@ async function notifyAuthors() {
     }).join(' ');
 
     // 构建通知评论
-    const notificationComment = `🔔 **脚本评论通知**\n\n${mentions}\n\n📁 **脚本路径：** \n\`${scriptPath}\`\n💬 **评论内容：**\n${comment.body}\n\n🔗 **评论区链接：** [#${discussion.number}](${discussion.html_url})`;
+    const notificationComment = `🔔 **脚本评论通知**\n\n${mentions}\n\n📁 **脚本路径：** \n\`${scriptPath}\`\n\n💬 **评论内容：**\n${comment.body}\n\n🔗 **评论区链接：** [#${discussion.number}](${discussion.html_url})`;
 
     // 发送通知
     try {

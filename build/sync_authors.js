@@ -134,7 +134,9 @@ async function syncAuthors() {
         console.log(`解析完成，共找到 ${authorMapping.length} 个路径`);
 
         // 写入 author_mapping.json
-        const outputPath = 'author_mapping.json';
+        // 获取项目根目录路径
+        const projectRoot = path.resolve(__dirname, '..');
+        const outputPath = path.join(projectRoot, 'assets', 'author_mapping.json');
         fs.writeFileSync(outputPath, JSON.stringify(authorMapping, null, 2), 'utf8');
         console.log(`作者映射已更新到 ${outputPath}`);
 
