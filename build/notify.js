@@ -16,8 +16,8 @@ async function getOrCreateAuthorDiscussion(username) {
     try {
         // 首先尝试查找现有的作者讨论区
         const searchQuery = `
-            query SearchDiscussions($query: String!) {
-                search(query: $query, type: DISCUSSION, first: 10) {
+            query SearchDiscussions($searchQuery: String!) {
+                search(query: $searchQuery, type: DISCUSSION, first: 10) {
                     nodes {
                         ... on Discussion {
                             id
@@ -30,7 +30,7 @@ async function getOrCreateAuthorDiscussion(username) {
         `;
 
         const searchResponse = await octokit.graphql(searchQuery, {
-            query: `repo:babalae/bettergi-script-web-giscus in:title "作者通知: ${username}"`
+            searchQuery: `repo:babalae/bettergi-script-web-giscus in:title "作者通知: ${username}"`
         });
 
         // 如果找到现有的讨论区，返回其ID
