@@ -150,7 +150,7 @@ async function notifyAuthors() {
             }
             
             // 构建单个作者的通知评论
-            const notificationComment = `🔔 **脚本评论通知**\n\n@${username}\n\n📁 **脚本路径：** \n\`${scriptPath}\`\n\n💬 **评论内容：**\n${comment.body}\n\n👤 **评论者：** @${comment.user.login}\n\n🔗 **评论区链接：** [#${discussion.number}](${discussion.html_url})`;
+            const notificationComment = `🔔 **脚本评论通知**\n\n@${username}\n\n📁 **脚本路径：** \n\`${scriptPath}\`\n\n💬 **评论内容：**\n${comment.body}\n\n👤 **评论者：** ${comment.user.login}\n\n🔗 **评论区链接：** [#${discussion.number}](${discussion.html_url})`;
             
             // 发送通知到作者的专属讨论区
             const mutation = `
