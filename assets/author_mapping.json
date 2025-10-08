@@ -70,25 +70,31 @@
     "authorLinks": []
   },
   {
-    "path": "pathing/锄地专区/精英400@汐/0传奇",
+    "path": "pathing/锄地专区/精英400@汐/0-传奇/003枫丹药剂师 传奇",
     "authorLinks": [
       "https://github.com/jiegedabaobei"
     ]
   },
   {
-    "path": "pathing/锄地专区/精英400@汐/1精英",
+    "path": "pathing/锄地专区/精英400@汐/0-传奇",
     "authorLinks": [
       "https://github.com/jiegedabaobei"
     ]
   },
   {
-    "path": "pathing/锄地专区/精英400@汐/2收尾",
+    "path": "pathing/锄地专区/精英400@汐/1-精英",
     "authorLinks": [
       "https://github.com/jiegedabaobei"
     ]
   },
   {
-    "path": "pathing/锄地专区/精英400@汐/3低效",
+    "path": "pathing/锄地专区/精英400@汐/2-收尾",
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
+  },
+  {
+    "path": "pathing/锄地专区/精英400@汐/3-低效",
     "authorLinks": [
       "https://github.com/jiegedabaobei",
       "https://github.com/Tooltingsu"
