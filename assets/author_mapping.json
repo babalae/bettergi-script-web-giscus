@@ -2714,6 +2714,12 @@
     "authorLinks": []
   },
   {
+    "path": "js/OCRArtifacts",
+    "authorLinks": [
+      "https://github.com/coderzhlh"
+    ]
+  },
+  {
     "path": "js/OCR切换武器",
     "authorLinks": [
       "https://github.com/JJMdzh"
@@ -3145,6 +3151,7 @@
       "https://github.com/Because66666",
       "https://github.com/MeisterJ",
       "https://github.com/ftnfurina",
+      "https://github.com/coderzhlh",
       "https://github.com/JJMdzh",
       "https://github.com/1xygyty1",
       "https://github.com/skyflag2022",
