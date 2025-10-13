@@ -70,12 +70,6 @@
     "authorLinks": []
   },
   {
-    "path": "pathing/锄地专区/精英400@汐/0-传奇/003枫丹药剂师 传奇",
-    "authorLinks": [
-      "https://github.com/jiegedabaobei"
-    ]
-  },
-  {
     "path": "pathing/锄地专区/精英400@汐/0-传奇",
     "authorLinks": [
       "https://github.com/jiegedabaobei"
@@ -2426,7 +2420,8 @@
     "path": "js/AutoCode",
     "authorLinks": [
       "https://github.com/Tooltingsu",
-      "https://github.com/zaodonganqi"
+      "https://github.com/zaodonganqi",
+      "https://github.com/NyaMisty"
     ]
   },
   {
@@ -3132,6 +3127,7 @@
       "https://github.com/Yang-z",
       "https://github.com/Tooltingsu",
       "https://github.com/zaodonganqi",
+      "https://github.com/NyaMisty",
       "https://github.com/LX666-666",
       "https://github.com/huiyadanli",
       "https://github.com/kaedelcb",
