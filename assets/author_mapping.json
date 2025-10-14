@@ -683,12 +683,10 @@
     ]
   },
   {
-    "path": "pathing/地方特产/须弥/万相石/万相石@MOMO",
-    "authorLinks": []
-  },
-  {
     "path": "pathing/地方特产/须弥/万相石",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/地方特产/须弥/劫波莲/无草神@jbcaaa",
@@ -795,6 +793,7 @@
   {
     "path": "pathing/地方特产/须弥",
     "authorLinks": [
+      "https://github.com/cheese-bagel",
       "https://github.com/jbcaaa",
       "https://github.com/pkjsjq",
       "https://github.com/Limint",
