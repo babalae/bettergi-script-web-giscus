@@ -3164,10 +3164,6 @@
     ]
   },
   {
-    "path": "combat/014.克皇夏托-锄地限制位移-晴雪精调版.txt",
-    "authorLinks": []
-  },
-  {
     "path": "combat/0命火神净土副本(记得看描述).txt",
     "authorLinks": []
   },
@@ -3180,33 +3176,7 @@
     "authorLinks": []
   },
   {
-    "path": "combat/1.四神挂机[推荐].txt",
-    "authorLinks": []
-  },
-  {
-    "path": "combat/1.茜芙爱万.txt",
-    "authorLinks": [
-      "https://github.com/Bedrockx"
-    ]
-  },
-  {
-    "path": "combat/2.宵宫队[请看文件内说明].txt",
-    "authorLinks": []
-  },
-  {
-    "path": "combat/201.爱可菲芙芙莱伊拉芭芭拉-锄地二拖二混经验.txt",
-    "authorLinks": []
-  },
-  {
-    "path": "combat/202.[传奇]爱可菲芙芙莱伊拉芭芭拉-锄地二拖二混经验.txt",
-    "authorLinks": []
-  },
-  {
-    "path": "combat/203.丝柯克爆发流塔利亚芙芙爱可菲-锄地带混子x1混经验.txt",
-    "authorLinks": []
-  },
-  {
-    "path": "combat/204.机娘芙芙一拖三-伊芙砂莫(行爱芭莱兼容).txt",
+    "path": "combat/[传奇]爱可菲芙芙莱伊拉芭芭拉-锄地二拖二混经验.txt",
     "authorLinks": []
   },
   {
@@ -3224,11 +3194,11 @@
     "authorLinks": []
   },
   {
-    "path": "combat/[锄大地]石化流钟离(看描述).txt",
+    "path": "combat/[锄大地]石化流钟离.txt",
     "authorLinks": []
   },
   {
-    "path": "combat/[锄大地]钟芙万芭#夏(很稳).txt",
+    "path": "combat/[锄大地]钟芙万芭#夏.txt",
     "authorLinks": []
   },
   {
@@ -3285,6 +3255,10 @@
   },
   {
     "path": "combat/丝柯克冰队.txt",
+    "authorLinks": []
+  },
+  {
+    "path": "combat/丝柯克爆发流塔利亚芙芙爱可菲-锄地带混子x1混经验.txt",
     "authorLinks": []
   },
   {
@@ -3368,11 +3342,19 @@
     "authorLinks": []
   },
   {
+    "path": "combat/伊芙爱万玛.txt",
+    "authorLinks": []
+  },
+  {
     "path": "combat/低命融仆.txt",
     "authorLinks": []
   },
   {
     "path": "combat/克欧夏火.txt",
+    "authorLinks": []
+  },
+  {
+    "path": "combat/克皇夏托-锄地限制位移-晴雪精调版.txt",
     "authorLinks": []
   },
   {
@@ -3392,11 +3374,15 @@
     ]
   },
   {
-    "path": "combat/后台队[请看详情说明].txt",
+    "path": "combat/后台队.txt",
     "authorLinks": []
   },
   {
     "path": "combat/四岩轮切.txt",
+    "authorLinks": []
+  },
+  {
+    "path": "combat/四神挂机.txt",
     "authorLinks": []
   },
   {
@@ -3420,7 +3406,11 @@
     "authorLinks": []
   },
   {
-    "path": "combat/宵宫队(优化版)[必看描述].txt",
+    "path": "combat/宵宫队(优化版).txt",
+    "authorLinks": []
+  },
+  {
+    "path": "combat/宵宫队.txt",
     "authorLinks": []
   },
   {
@@ -3448,7 +3438,7 @@
     "authorLinks": []
   },
   {
-    "path": "combat/恰斯卡[请看文件内说明].txt",
+    "path": "combat/恰斯卡.txt",
     "authorLinks": []
   },
   {
@@ -3456,7 +3446,7 @@
     "authorLinks": []
   },
   {
-    "path": "combat/挂机流锄地带万叶[请看文件内说明].txt",
+    "path": "combat/挂机流锄地带万叶.txt",
     "authorLinks": []
   },
   {
@@ -3468,7 +3458,11 @@
     "authorLinks": []
   },
   {
-    "path": "combat/散兵[请看文件内说明].txt",
+    "path": "combat/散兵.txt",
+    "authorLinks": []
+  },
+  {
+    "path": "combat/机娘芙芙一拖三-伊芙砂莫(行爱芭莱兼容).txt",
     "authorLinks": []
   },
   {
@@ -3534,6 +3528,10 @@
     ]
   },
   {
+    "path": "combat/爱可菲芙芙莱伊拉芭芭拉-锄地二拖二混经验.txt",
+    "authorLinks": []
+  },
+  {
     "path": "combat/爱可菲草行久.txt",
     "authorLinks": []
   },
@@ -3544,7 +3542,7 @@
     ]
   },
   {
-    "path": "combat/爱芙丝-普攻流[请看文件内说明].txt",
+    "path": "combat/爱芙丝-普攻流.txt",
     "authorLinks": []
   },
   {
@@ -3604,7 +3602,7 @@
     "authorLinks": []
   },
   {
-    "path": "combat/白玛茜万[推荐].txt",
+    "path": "combat/白玛茜万.txt",
     "authorLinks": [
       "https://github.com/evildoer12138"
     ]
@@ -3708,6 +3706,12 @@
     "authorLinks": []
   },
   {
+    "path": "combat/茜芙爱万.txt",
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
+  },
+  {
     "path": "combat/茜芙爱万[锄地精英改良版].txt",
     "authorLinks": []
   },
@@ -3774,6 +3778,10 @@
     "authorLinks": [
       "https://github.com/Traveler07"
     ]
+  },
+  {
+    "path": "combat/通用纳塔锄地队.txt",
+    "authorLinks": []
   },
   {
     "path": "combat/那万钟八.txt",
@@ -3882,10 +3890,6 @@
     "authorLinks": []
   },
   {
-    "path": "combat/高稳健通用纳塔锄地队.txt",
-    "authorLinks": []
-  },
-  {
     "path": "combat/龙芙万伊.txt",
     "authorLinks": [
       "https://github.com/RRRR623"
@@ -3904,13 +3908,13 @@
   {
     "path": "combat",
     "authorLinks": [
-      "https://github.com/Bedrockx",
       "https://github.com/HZYgrandma",
       "https://github.com/baixi232310",
       "https://github.com/RRRR623",
       "https://github.com/jidingcai",
       "https://github.com/johsang",
       "https://github.com/evildoer12138",
+      "https://github.com/Bedrockx",
       "https://github.com/Traveler07",
       "https://github.com/vulgar-rustic",
       "https://github.com/Kotagan"
