@@ -8,8 +8,8 @@
   {
     "path": "pathing/锄地专区/小怪2000@mno/0_6_纳塔",
     "authorLinks": [
-      "https://github.com/jiegedabaobei",
-      "https://github.com/Bedrockx"
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei"
     ]
   },
   {
@@ -27,7 +27,8 @@
   {
     "path": "pathing/锄地专区/小怪2000@mno/1_3_稻妻",
     "authorLinks": [
-      "https://github.com/Bedrockx"
+      "https://github.com/Bedrockx",
+      "https://github.com/mfkvfhpdx"
     ]
   },
   {
@@ -60,8 +61,8 @@
     "path": "pathing/锄地专区/小怪2000@mno",
     "authorLinks": [
       "https://github.com/this-Fish",
-      "https://github.com/jiegedabaobei",
       "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei",
       "https://github.com/mfkvfhpdx"
     ]
   },
@@ -105,8 +106,8 @@
     "path": "pathing/锄地专区",
     "authorLinks": [
       "https://github.com/this-Fish",
-      "https://github.com/jiegedabaobei",
       "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei",
       "https://github.com/mfkvfhpdx",
       "https://github.com/Tooltingsu"
     ]
@@ -2295,8 +2296,8 @@
     "path": "pathing",
     "authorLinks": [
       "https://github.com/this-Fish",
-      "https://github.com/jiegedabaobei",
       "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei",
       "https://github.com/mfkvfhpdx",
       "https://github.com/Tooltingsu",
       "https://github.com/1004452714",
@@ -2385,6 +2386,13 @@
     "path": "js/AllFowlTeyvat",
     "authorLinks": [
       "https://github.com/Hijiwos"
+    ]
+  },
+  {
+    "path": "js/AotoTeyvatFoodOneDragon",
+    "authorLinks": [
+      "https://github.com/MisDandan23",
+      "https://github.com/jiangziyanowo"
     ]
   },
   {
@@ -2618,6 +2626,12 @@
     ]
   },
   {
+    "path": "js/DeerGameMeat",
+    "authorLinks": [
+      "https://github.com/zaodonganqi"
+    ]
+  },
+  {
     "path": "js/DestroyArtifactsForMora",
     "authorLinks": [
       "https://github.com/MisakaAldrich"
@@ -2710,6 +2724,12 @@
     "path": "js/OCRArtifacts",
     "authorLinks": [
       "https://github.com/coderzhlh"
+    ]
+  },
+  {
+    "path": "js/OCRCountResin",
+    "authorLinks": [
+      "https://github.com/ColinXHL"
     ]
   },
   {
@@ -3121,6 +3141,8 @@
       "https://github.com/cheese-bagel",
       "https://github.com/physligl",
       "https://github.com/Kirito520Asuna",
+      "https://github.com/MisDandan23",
+      "https://github.com/jiangziyanowo",
       "https://github.com/TingYu-lulumi",
       "https://github.com/this-Fish",
       "https://github.com/24qiaoyue",
@@ -3136,7 +3158,6 @@
       "https://github.com/5117600049",
       "https://github.com/214-hanyan",
       "https://github.com/ColinXHL",
-      "https://github.com/jiangziyanowo",
       "https://github.com/Traveler07",
       "https://github.com/guyou45",
       "https://github.com/lwwens",
