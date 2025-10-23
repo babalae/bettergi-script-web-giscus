@@ -2345,6 +2345,12 @@
     ]
   },
   {
+    "path": "js/1000StarsLoop",
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
+  },
+  {
     "path": "js/1Remote_RDP_Autoreconnection",
     "authorLinks": [
       "https://github.com/RRRR623"
@@ -3139,8 +3145,8 @@
   {
     "path": "js",
     "authorLinks": [
-      "https://github.com/RRRR623",
       "https://github.com/Bedrockx",
+      "https://github.com/RRRR623",
       "https://github.com/jiegedabaobei",
       "https://github.com/Hijiwos",
       "https://github.com/MisakaAldrich",
