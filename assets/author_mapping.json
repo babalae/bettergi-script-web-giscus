@@ -2663,15 +2663,9 @@
     ]
   },
   {
-    "path": "js/ExitGame",
+    "path": "js/ExitGameMultipleMode",
     "authorLinks": [
-      "https://github.com/Because66666"
-    ]
-  },
-  {
-    "path": "js/ExitGametoDesktop",
-    "authorLinks": [
-      "https://github.com/MeisterJ"
+      "https://github.com/MisakaAldrich"
     ]
   },
   {
@@ -2721,6 +2715,12 @@
     "path": "js/Mail",
     "authorLinks": [
       "https://github.com/HZYgrandma"
+    ]
+  },
+  {
+    "path": "js/MiliastraExperienceAutomation",
+    "authorLinks": [
+      "https://github.com/breadgrocery"
     ]
   },
   {
@@ -2799,12 +2799,6 @@
     "path": "js/QuickSwapGadgets",
     "authorLinks": [
       "https://github.com/Patrick-Ze"
-    ]
-  },
-  {
-    "path": "js/QuitGame",
-    "authorLinks": [
-      "https://github.com/HZYgrandma"
     ]
   },
   {
@@ -2963,7 +2957,9 @@
   },
   {
     "path": "js/切换账号Dropdown",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ColinXHL"
+    ]
   },
   {
     "path": "js/副本选择难度",
@@ -3179,9 +3175,8 @@
       "https://github.com/SophieZ22",
       "https://github.com/miludelongwang",
       "https://github.com/Patrick-Ze",
-      "https://github.com/Because66666",
-      "https://github.com/MeisterJ",
       "https://github.com/ftnfurina",
+      "https://github.com/breadgrocery",
       "https://github.com/coderzhlh",
       "https://github.com/JJMdzh",
       "https://github.com/1xygyty1",
