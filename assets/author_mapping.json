@@ -2801,12 +2801,6 @@
     ]
   },
   {
-    "path": "js/RecognitionDemo",
-    "authorLinks": [
-      "https://github.com/huiyadanli"
-    ]
-  },
-  {
     "path": "js/SetTime",
     "authorLinks": [
       "https://github.com/Kupder"
@@ -2816,12 +2810,6 @@
     "path": "js/SetTimeMinute",
     "authorLinks": [
       "https://github.com/Limint"
-    ]
-  },
-  {
-    "path": "js/Shutdown",
-    "authorLinks": [
-      "https://github.com/HZYgrandma"
     ]
   },
   {
@@ -3089,7 +3077,7 @@
     ]
   },
   {
-    "path": "js/计算机",
+    "path": "js/计算机电源操作",
     "authorLinks": [
       "https://github.com/jidingcai"
     ]
@@ -3134,7 +3122,8 @@
   {
     "path": "js/首领讨伐一条龙",
     "authorLinks": [
-      "https://github.com/5117600049"
+      "https://github.com/5117600049",
+      "https://github.com/Tooltingsu"
     ]
   },
   {
