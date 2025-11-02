@@ -2489,7 +2489,7 @@
     ]
   },
   {
-    "path": "js/AutoFriendship鸡腿",
+    "path": "js/AutoFriendshipFowl",
     "authorLinks": [
       "https://github.com/physligl"
     ]
@@ -2727,10 +2727,6 @@
     "authorLinks": [
       "https://github.com/HZYgrandma"
     ]
-  },
-  {
-    "path": "js/Notify",
-    "authorLinks": []
   },
   {
     "path": "js/OCRArtifacts",
@@ -3016,21 +3012,9 @@
     ]
   },
   {
-    "path": "js/注销计算机用户",
-    "authorLinks": [
-      "https://github.com/TingYu-lulumi"
-    ]
-  },
-  {
     "path": "js/消耗复活料理",
     "authorLinks": [
       "https://github.com/Bedrockx"
-    ]
-  },
-  {
-    "path": "js/烹饪熟练度一键拉满",
-    "authorLinks": [
-      "https://github.com/5117600049"
     ]
   },
   {
