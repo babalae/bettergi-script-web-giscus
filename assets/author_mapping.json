@@ -2232,8 +2232,20 @@
     "authorLinks": []
   },
   {
-    "path": "pathing/食材与炼金/鳗肉",
+    "path": "pathing/食材与炼金/鳗肉/鳗肉@MOMO",
     "authorLinks": []
+  },
+  {
+    "path": "pathing/食材与炼金/鳗肉/鳗肉@海豹穹穹队",
+    "authorLinks": [
+      "https: //github.com/OhmyPaoPao"
+    ]
+  },
+  {
+    "path": "pathing/食材与炼金/鳗肉",
+    "authorLinks": [
+      "https: //github.com/OhmyPaoPao"
+    ]
   },
   {
     "path": "pathing/食材与炼金/鸟蛋/无草神@魔术技巧",
@@ -2295,6 +2307,7 @@
       "https://github.com/Hijiwos",
       "https://github.com/cx05121",
       "https://github.com/RRRR623",
+      "https: //github.com/OhmyPaoPao",
       "https://github.com/jidingcai",
       "https://github.com/jiegedabaobei"
     ]
@@ -2341,7 +2354,8 @@
       "https://github.com/aqing11520",
       "https://github.com/Strix-nivicolum",
       "https://github.com/SmomoL",
-      "https://github.com/HZYgrandma"
+      "https://github.com/HZYgrandma",
+      "https: //github.com/OhmyPaoPao"
     ]
   },
   {
@@ -2729,6 +2743,13 @@
     ]
   },
   {
+    "path": "js/OBS录制",
+    "authorLinks": [
+      "https://github.com/wjdsg0327",
+      "https://github.com/guyou45"
+    ]
+  },
+  {
     "path": "js/OCRArtifacts",
     "authorLinks": [
       "https://github.com/coderzhlh"
@@ -2806,6 +2827,14 @@
     "path": "js/SetTimeMinute",
     "authorLinks": [
       "https://github.com/Limint"
+    ]
+  },
+  {
+    "path": "js/SwitchAccountMultipleMode",
+    "authorLinks": [
+      "https://github.com/MisakaAldrich",
+      "https://github.com/ColinXHL",
+      "https://github.com/KRdingsan"
     ]
   },
   {
@@ -2924,24 +2953,6 @@
     "path": "js/切换画质",
     "authorLinks": [
       "https://github.com/JJMdzh"
-    ]
-  },
-  {
-    "path": "js/切换账号(OCR)版本",
-    "authorLinks": [
-      "https://github.com/KRdingsan"
-    ]
-  },
-  {
-    "path": "js/切换账号(非OCR)版本",
-    "authorLinks": [
-      "https://github.com/KRdingsan"
-    ]
-  },
-  {
-    "path": "js/切换账号Dropdown",
-    "authorLinks": [
-      "https://github.com/ColinXHL"
     ]
   },
   {
@@ -3151,13 +3162,14 @@
       "https://github.com/Because66666",
       "https://github.com/ftnfurina",
       "https://github.com/breadgrocery",
+      "https://github.com/wjdsg0327",
       "https://github.com/coderzhlh",
       "https://github.com/JJMdzh",
       "https://github.com/1xygyty1",
       "https://github.com/skyflag2022",
       "https://github.com/Kupder",
-      "https://github.com/shilic",
       "https://github.com/KRdingsan",
+      "https://github.com/shilic",
       "https://github.com/Rosefinch-zzz",
       "https://github.com/1004452714",
       "https://github.com/Kotagan",
