@@ -2503,6 +2503,12 @@
     ]
   },
   {
+    "path": "js/AutoInstructorLock",
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
+  },
+  {
     "path": "js/AutoLeyLineOutcrop",
     "authorLinks": [
       "https://github.com/ddaodan",
@@ -3062,6 +3068,13 @@
     "path": "js/设置时间并跳过调整动画",
     "authorLinks": [
       "https://github.com/Limint"
+    ]
+  },
+  {
+    "path": "js/调用一条龙",
+    "authorLinks": [
+      "https://github.com/wjdsg0327",
+      "https://github.com/guyou45"
     ]
   },
   {
