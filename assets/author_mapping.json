@@ -1812,10 +1812,19 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/枣椰/有草神_定向扫码采集",
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/this-Fish",
+      "https://github.com/taotao568685"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/枣椰",
     "authorLinks": [
       "https://github.com/PanZic",
-      "https://github.com/taotao568685"
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish"
     ]
   },
   {
