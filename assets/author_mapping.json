@@ -2465,6 +2465,13 @@
     ]
   },
   {
+    "path": "js/AutoDomainCustomizable",
+    "authorLinks": [
+      "https://github.com/huiyadanli",
+      "https://github.com/RJFAC"
+    ]
+  },
+  {
     "path": "js/AutoEnter",
     "authorLinks": [
       "https://github.com/Bedrockx"
@@ -2867,6 +2874,12 @@
     ]
   },
   {
+    "path": "js/WeeklyThousandStarRealm",
+    "authorLinks": [
+      "https://github.com/zaodonganqi"
+    ]
+  },
+  {
     "path": "js/YNF-AutoEat",
     "authorLinks": [
       "https://github.com/jiangziyanowo",
@@ -3068,6 +3081,12 @@
     ]
   },
   {
+    "path": "js/营养袋吃药统计",
+    "authorLinks": [
+      "https://github.com/skyflag2022"
+    ]
+  },
+  {
     "path": "js/角色养成一条龙",
     "authorLinks": [
       "https://github.com/5117600049"
@@ -3153,6 +3172,7 @@
       "https://github.com/NyaMisty",
       "https://github.com/LX666-666",
       "https://github.com/huiyadanli",
+      "https://github.com/RJFAC",
       "https://github.com/kaedelcb",
       "https://github.com/ddaodan",
       "https://github.com/Flatmirrr",
