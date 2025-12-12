@@ -831,8 +831,21 @@
     ]
   },
   {
+    "path": "pathing/敌人与魔物/丘丘人射手/丘丘人射手@Annijang",
+    "authorLinks": [
+      "https://github.com/Annijang"
+    ]
+  },
+  {
+    "path": "pathing/敌人与魔物/丘丘人射手/丘丘人射手@曦",
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
+  },
+  {
     "path": "pathing/敌人与魔物/丘丘人射手",
     "authorLinks": [
+      "https://github.com/Annijang",
       "https://github.com/cx05121"
     ]
   },
@@ -1261,6 +1274,7 @@
   {
     "path": "pathing/敌人与魔物",
     "authorLinks": [
+      "https://github.com/Annijang",
       "https://github.com/cx05121",
       "https://github.com/vulgar-rustic",
       "https://github.com/xwsqy6",
@@ -2332,6 +2346,7 @@
       "https://github.com/pkjsjq",
       "https://github.com/Limint",
       "https://github.com/Traveler07",
+      "https://github.com/Annijang",
       "https://github.com/vulgar-rustic",
       "https://github.com/xwsqy6",
       "https://github.com/evildoer12138",
