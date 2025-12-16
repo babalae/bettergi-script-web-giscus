@@ -170,7 +170,8 @@
   {
     "path": "pathing/地方特产/枫丹/海露花",
     "authorLinks": [
-      "https://github.com/this-Fish"
+      "https://github.com/this-Fish",
+      "https://github.com/cheese-bagel"
     ]
   },
   {
@@ -197,6 +198,7 @@
       "https://github.com/Tooltingsu",
       "https://github.com/jbcaaa",
       "https://github.com/this-Fish",
+      "https://github.com/cheese-bagel",
       "https://github.com/cx05121"
     ]
   },
@@ -814,10 +816,10 @@
       "https://github.com/1004452714",
       "https://github.com/jbcaaa",
       "https://github.com/this-Fish",
+      "https://github.com/cheese-bagel",
       "https://github.com/cx05121",
       "https://github.com/MisakaAldrich",
       "https://github.com/taotao568685",
-      "https://github.com/cheese-bagel",
       "https://github.com/ryanlin594529",
       "https://github.com/KRdingsan",
       "https://github.com/ddaodan",
@@ -2332,10 +2334,10 @@
       "https://github.com/Tooltingsu",
       "https://github.com/1004452714",
       "https://github.com/jbcaaa",
+      "https://github.com/cheese-bagel",
       "https://github.com/cx05121",
       "https://github.com/MisakaAldrich",
       "https://github.com/taotao568685",
-      "https://github.com/cheese-bagel",
       "https://github.com/ryanlin594529",
       "https://github.com/KRdingsan",
       "https://github.com/ddaodan",
@@ -2999,7 +3001,8 @@
   {
     "path": "js/尘歌壶一条龙",
     "authorLinks": [
-      "https://github.com/miludelongwang"
+      "https://github.com/miludelongwang",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -3092,6 +3095,12 @@
     "path": "js/自动领取成就奖励",
     "authorLinks": [
       "https://github.com/5117600049"
+    ]
+  },
+  {
+    "path": "js/药品消耗统计",
+    "authorLinks": [
+      "https://github.com/itslyh"
     ]
   },
   {
@@ -3210,6 +3219,7 @@
       "https://github.com/Kotagan",
       "https://github.com/jidingcai",
       "https://gitee.com/wangjian0327",
+      "https://github.com/itslyh",
       "https://github.com/jhkif"
     ]
   },
