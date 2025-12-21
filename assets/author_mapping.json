@@ -1313,6 +1313,49 @@
     "authorLinks": []
   },
   {
+    "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/层岩巨渊·地下矿区",
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
+  },
+  {
+    "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/沉玉谷",
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
+  },
+  {
+    "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/璃月",
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
+  },
+  {
+    "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/纳塔",
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
+  },
+  {
+    "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/蒙德",
+    "authorLinks": [
+      "https://github.com/RRRR623"
+    ]
+  },
+  {
+    "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/须弥",
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
+  },
+  {
+    "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果",
+    "authorLinks": [
+      "https://github.com/RRRR623",
+      "https://github.com/cheese-bagel"
+    ]
+  },
+  {
     "path": "pathing/矿物/水晶块/水晶块[钟离版]@愚溪",
     "authorLinks": [
       "https://github.com/Kupder",
@@ -1320,48 +1363,12 @@
     ]
   },
   {
-    "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山/层岩巨渊·地下矿区",
-    "authorLinks": [
-      "https://github.com/RRRR623"
-    ]
-  },
-  {
-    "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山/沉玉谷",
-    "authorLinks": [
-      "https://github.com/RRRR623"
-    ]
-  },
-  {
-    "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山/璃月",
-    "authorLinks": [
-      "https://github.com/RRRR623"
-    ]
-  },
-  {
-    "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山/蒙德",
-    "authorLinks": [
-      "https://github.com/RRRR623"
-    ]
-  },
-  {
-    "path": "pathing/矿物/水晶块/诺艾尔的提瓦特矿闻录@火山",
-    "authorLinks": [
-      "https://github.com/RRRR623"
-    ]
-  },
-  {
-    "path": "pathing/矿物/水晶块/须弥纳塔地区大剑@芝士贝果",
-    "authorLinks": [
-      "https://github.com/cheese-bagel"
-    ]
-  },
-  {
     "path": "pathing/矿物/水晶块",
     "authorLinks": [
-      "https://github.com/Kupder",
-      "https://github.com/mfkvfhpdx",
       "https://github.com/RRRR623",
-      "https://github.com/cheese-bagel"
+      "https://github.com/cheese-bagel",
+      "https://github.com/Kupder",
+      "https://github.com/mfkvfhpdx"
     ]
   },
   {
@@ -1433,10 +1440,10 @@
     "path": "pathing/矿物",
     "authorLinks": [
       "https://github.com/Tooltingsu",
-      "https://github.com/Kupder",
-      "https://github.com/mfkvfhpdx",
       "https://github.com/RRRR623",
       "https://github.com/cheese-bagel",
+      "https://github.com/Kupder",
+      "https://github.com/mfkvfhpdx",
       "https://github.com/this-Fish",
       "https://github.com/non-repeating001"
     ]
@@ -2364,8 +2371,8 @@
       "https://github.com/FuYeqi",
       "https://github.com/Hijiwos",
       "https://github.com/baixi232310",
-      "https://github.com/Kupder",
       "https://github.com/RRRR623",
+      "https://github.com/Kupder",
       "https://github.com/non-repeating001",
       "https://github.com/Patrick-Ze",
       "https://github.com/zaodonganqi",
@@ -2426,6 +2433,12 @@
   },
   {
     "path": "js/ActivitySwitch",
+    "authorLinks": [
+      "https://github.com/Kirito520Asuna"
+    ]
+  },
+  {
+    "path": "js/ActivitySwitchNotice",
     "authorLinks": [
       "https://github.com/Kirito520Asuna"
     ]
@@ -2565,7 +2578,8 @@
       "https://github.com/MisakaAldrich",
       "https://github.com/RRRR623",
       "https://github.com/214-hanyan",
-      "https://github.com/ColinXHL"
+      "https://github.com/ColinXHL",
+      "https://github.com/Kirito520Asuna"
     ]
   },
   {
@@ -2861,7 +2875,8 @@
     "authorLinks": [
       "https://github.com/MisakaAldrich",
       "https://github.com/ColinXHL",
-      "https://github.com/KRdingsan"
+      "https://github.com/KRdingsan",
+      "https://github.com/Kirito520Asuna"
     ]
   },
   {
