@@ -456,7 +456,8 @@
   {
     "path": "pathing/地方特产/纳塔/云岩裂叶",
     "authorLinks": [
-      "https://github.com/ddaodan"
+      "https://github.com/ddaodan",
+      "https://github.com/cheese-bagel"
     ]
   },
   {
@@ -518,6 +519,7 @@
     "path": "pathing/地方特产/纳塔",
     "authorLinks": [
       "https://github.com/ddaodan",
+      "https://github.com/cheese-bagel",
       "https://github.com/cx05121",
       "https://github.com/this-Fish",
       "https://github.com/xd1145"
@@ -1065,7 +1067,9 @@
   },
   {
     "path": "pathing/敌人与魔物/炉壳山鼬",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/cheese-bagel"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/熔岩游像",
@@ -1258,7 +1262,8 @@
   {
     "path": "pathing/敌人与魔物/魔像禁卫",
     "authorLinks": [
-      "https://github.com/Tooltingsu"
+      "https://github.com/Tooltingsu",
+      "https://github.com/cheese-bagel"
     ]
   },
   {
@@ -1288,6 +1293,7 @@
       "https://github.com/Tooltingsu",
       "https://github.com/C-01-11011",
       "https://github.com/FuYeqi",
+      "https://github.com/cheese-bagel",
       "https://github.com/Hijiwos",
       "https://github.com/baixi232310",
       "https://github.com/this-Fish",
@@ -2098,7 +2104,8 @@
   {
     "path": "pathing/食材与炼金/苦种",
     "authorLinks": [
-      "https://github.com/PanZic"
+      "https://github.com/PanZic",
+      "https://github.com/cheese-bagel"
     ]
   },
   {
@@ -2111,7 +2118,8 @@
     "path": "pathing/食材与炼金/茉洁草",
     "authorLinks": [
       "https://github.com/PanZic",
-      "https://github.com/cx05121"
+      "https://github.com/cx05121",
+      "https://github.com/cheese-bagel"
     ]
   },
   {
@@ -3805,6 +3813,10 @@
   },
   {
     "path": "combat/芙芙菲菲(月感电).txt",
+    "authorLinks": []
+  },
+  {
+    "path": "combat/芙茜万夏.txt",
     "authorLinks": []
   },
   {
