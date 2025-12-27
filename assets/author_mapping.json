@@ -1818,13 +1818,16 @@
     ]
   },
   {
-    "path": "pathing/食材与炼金/松茸/有草神@未知作者",
-    "authorLinks": []
+    "path": "pathing/食材与炼金/松茸/有草神@曦",
+    "authorLinks": [
+      "https://github.com/cx05121"
+    ]
   },
   {
     "path": "pathing/食材与炼金/松茸",
     "authorLinks": [
-      "https://github.com/taotao568685"
+      "https://github.com/taotao568685",
+      "https://github.com/cx05121"
     ]
   },
   {
@@ -2063,7 +2066,7 @@
     ]
   },
   {
-    "path": "pathing/食材与炼金/禽肉/禽肉砂糖@灰林枭",
+    "path": "pathing/食材与炼金/禽肉/禽肉砂糖@灰林鸮",
     "authorLinks": [
       "https://github.com/Strix-nivicolum"
     ]
@@ -2336,12 +2339,12 @@
       "https://github.com/Strix-nivicolum",
       "https://github.com/PanZic",
       "https://github.com/Limint",
+      "https://github.com/cx05121",
       "https: //github.com/OhmyPaoPao",
       "https://github.com/SmomoL",
       "https://github.com/HZYgrandma",
       "https://github.com/ddaodan",
       "https://github.com/Hijiwos",
-      "https://github.com/cx05121",
       "https://github.com/RRRR623",
       "https://github.com/jiegedabaobei"
     ]
@@ -2462,6 +2465,12 @@
     "authorLinks": [
       "https://github.com/MisDandan23",
       "https://github.com/jiangziyanowo"
+    ]
+  },
+  {
+    "path": "js/ArtifactsAssistant",
+    "authorLinks": [
+      "https://github.com/756yang"
     ]
   },
   {
@@ -3218,6 +3227,7 @@
       "https://github.com/Kirito520Asuna",
       "https://github.com/MisDandan23",
       "https://github.com/jiangziyanowo",
+      "https://github.com/756yang",
       "https://github.com/TingYu-lulumi",
       "https://github.com/this-Fish",
       "https://github.com/24qiaoyue",
