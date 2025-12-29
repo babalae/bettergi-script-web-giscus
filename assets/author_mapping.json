@@ -1635,6 +1635,12 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/兽肉/兽肉-丝柯克@灰林鸮",
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/兽肉/兽肉@起个名字好难的喵&蜜柑魚",
     "authorLinks": [
       "https://github.com/MisakaAldrich",
@@ -1645,6 +1651,7 @@
     "path": "pathing/食材与炼金/兽肉",
     "authorLinks": [
       "https://github.com/zaodonganqi",
+      "https://github.com/Strix-nivicolum",
       "https://github.com/MisakaAldrich",
       "https://github.com/this-Fish"
     ]
@@ -2328,6 +2335,7 @@
       "https://github.com/this-Fish",
       "https://github.com/Tooltingsu",
       "https://github.com/zaodonganqi",
+      "https://github.com/Strix-nivicolum",
       "https://github.com/MisakaAldrich",
       "https://github.com/baixi232310",
       "https://github.com/jhkif",
@@ -2336,7 +2344,6 @@
       "https://github.com/cheese-bagel",
       "https://github.com/MisDandan23",
       "https://github.com/aqing11520",
-      "https://github.com/Strix-nivicolum",
       "https://github.com/PanZic",
       "https://github.com/Limint",
       "https://github.com/cx05121",
@@ -2387,10 +2394,10 @@
       "https://github.com/non-repeating001",
       "https://github.com/Patrick-Ze",
       "https://github.com/zaodonganqi",
+      "https://github.com/Strix-nivicolum",
       "https://github.com/jhkif",
       "https://github.com/MisDandan23",
       "https://github.com/aqing11520",
-      "https://github.com/Strix-nivicolum",
       "https: //github.com/OhmyPaoPao",
       "https://github.com/SmomoL",
       "https://github.com/HZYgrandma"
@@ -3202,6 +3209,12 @@
     "path": "js/食材加工(模拟点击)",
     "authorLinks": [
       "https://github.com/jidingcai"
+    ]
+  },
+  {
+    "path": "js/食材加工极速版",
+    "authorLinks": [
+      "https://github.com/Bedrockx"
     ]
   },
   {
