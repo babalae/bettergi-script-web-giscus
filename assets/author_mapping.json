@@ -1631,7 +1631,7 @@
   {
     "path": "pathing/食材与炼金/兽肉/兽肉-万叶菈乌玛@躁动的氨气",
     "authorLinks": [
-      "https://github.com/zaodonganqi"
+      "https://github.com/A-Little-AnQi"
     ]
   },
   {
@@ -1650,7 +1650,7 @@
   {
     "path": "pathing/食材与炼金/兽肉",
     "authorLinks": [
-      "https://github.com/zaodonganqi",
+      "https://github.com/A-Little-AnQi",
       "https://github.com/Strix-nivicolum",
       "https://github.com/MisakaAldrich",
       "https://github.com/this-Fish"
@@ -1807,6 +1807,7 @@
   {
     "path": "pathing/食材与炼金/晶蝶",
     "authorLinks": [
+      "https://github.com/Kirito520Asuna",
       "https://github.com/Limint"
     ]
   },
@@ -2340,7 +2341,7 @@
     "authorLinks": [
       "https://github.com/this-Fish",
       "https://github.com/Tooltingsu",
-      "https://github.com/zaodonganqi",
+      "https://github.com/A-Little-AnQi",
       "https://github.com/Strix-nivicolum",
       "https://github.com/MisakaAldrich",
       "https://github.com/baixi232310",
@@ -2351,6 +2352,7 @@
       "https://github.com/MisDandan23",
       "https://github.com/aqing11520",
       "https://github.com/PanZic",
+      "https://github.com/Kirito520Asuna",
       "https://github.com/Limint",
       "https://github.com/cx05121",
       "https: //github.com/OhmyPaoPao",
@@ -2399,11 +2401,12 @@
       "https://github.com/Kupder",
       "https://github.com/non-repeating001",
       "https://github.com/Patrick-Ze",
-      "https://github.com/zaodonganqi",
+      "https://github.com/A-Little-AnQi",
       "https://github.com/Strix-nivicolum",
       "https://github.com/jhkif",
       "https://github.com/MisDandan23",
       "https://github.com/aqing11520",
+      "https://github.com/Kirito520Asuna",
       "https: //github.com/OhmyPaoPao",
       "https://github.com/SmomoL",
       "https://github.com/HZYgrandma"
@@ -2498,12 +2501,6 @@
     "authorLinks": [
       "https://github.com/TingYu-lulumi",
       "https://github.com/this-Fish"
-    ]
-  },
-  {
-    "path": "js/AutoArtifactsSalvageOrDestroy（1-4star）",
-    "authorLinks": [
-      "https://github.com/24qiaoyue"
     ]
   },
   {
@@ -2889,13 +2886,9 @@
   {
     "path": "js/SetTime",
     "authorLinks": [
-      "https://github.com/Kupder"
-    ]
-  },
-  {
-    "path": "js/SetTimeMinute",
-    "authorLinks": [
-      "https://github.com/Limint"
+      "https://github.com/Limint",
+      "https://github.com/Kupder",
+      "https://github.com/A-Little-AnQi"
     ]
   },
   {
@@ -2997,13 +2990,6 @@
     ]
   },
   {
-    "path": "js/义父立本",
-    "authorLinks": [
-      "https://github.com/Bedrockx",
-      "https://github.com/Kirito520Asuna"
-    ]
-  },
-  {
     "path": "js/传送至指定合成台",
     "authorLinks": []
   },
@@ -3027,12 +3013,6 @@
     ]
   },
   {
-    "path": "js/分解圣遗物 带背包过期弹窗自动点击",
-    "authorLinks": [
-      "https://github.com/JJMdzh"
-    ]
-  },
-  {
     "path": "js/切换主角元素",
     "authorLinks": [
       "https://github.com/Bedrockx"
@@ -3052,12 +3032,6 @@
   },
   {
     "path": "js/只要大瓶",
-    "authorLinks": [
-      "https://github.com/Bedrockx"
-    ]
-  },
-  {
-    "path": "js/多层文件夹处理",
     "authorLinks": [
       "https://github.com/Bedrockx"
     ]
@@ -3192,12 +3166,6 @@
     ]
   },
   {
-    "path": "js/设置时间并跳过调整动画",
-    "authorLinks": [
-      "https://github.com/Limint"
-    ]
-  },
-  {
     "path": "js/诛贼-地方传奇-利亚姆",
     "authorLinks": [
       "https://github.com/xiaozhang12312"
@@ -3214,12 +3182,6 @@
     "authorLinks": [
       "https://github.com/jidingcai",
       "https://github.com/this-Fish"
-    ]
-  },
-  {
-    "path": "js/食材加工",
-    "authorLinks": [
-      "https://github.com/JJMdzh"
     ]
   },
   {
@@ -3254,7 +3216,6 @@
       "https://github.com/756yang",
       "https://github.com/TingYu-lulumi",
       "https://github.com/this-Fish",
-      "https://github.com/24qiaoyue",
       "https://github.com/Yang-z",
       "https://github.com/Tooltingsu",
       "https://github.com/zaodonganqi",
@@ -3283,6 +3244,7 @@
       "https://github.com/1xygyty1",
       "https://github.com/skyflag2022",
       "https://github.com/Kupder",
+      "https://github.com/A-Little-AnQi",
       "https://github.com/KRdingsan",
       "https://github.com/shilic",
       "https://github.com/himno",
