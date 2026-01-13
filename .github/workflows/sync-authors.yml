@@ -2,7 +2,7 @@ name: 同步作者信息
 
 on:
   schedule:
-    # 每天北京时间 18:30 运行
+    # 每天北京时间 19:00 运行
     - cron: '0 11 * * *'
   workflow_dispatch: # 允许手动触发
 
