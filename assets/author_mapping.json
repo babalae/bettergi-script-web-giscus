@@ -2497,10 +2497,9 @@
     ]
   },
   {
-    "path": "js/Auto Theft NPC & 原食",
+    "path": "js/AutoArtifactsSalvageOrDestroy（1-4star）",
     "authorLinks": [
-      "https://github.com/TingYu-lulumi",
-      "https://github.com/this-Fish"
+      "https://github.com/24qiaoyue"
     ]
   },
   {
@@ -2684,14 +2683,6 @@
     ]
   },
   {
-    "path": "js/BuyOmni-UbiquityNet",
-    "authorLinks": [
-      "https://github.com/SophieZ22",
-      "https://github.com/miludelongwang",
-      "https://github.com/physligl"
-    ]
-  },
-  {
     "path": "js/CD-Aware-AutoGather",
     "authorLinks": [
       "https://github.com/Patrick-Ze"
@@ -2737,12 +2728,6 @@
     "path": "js/DoubleFriendshipEncounterPoints",
     "authorLinks": [
       "https://github.com/MisakaAldrich"
-    ]
-  },
-  {
-    "path": "js/EscofierKitchenContraption",
-    "authorLinks": [
-      "https://github.com/kaedelcb"
     ]
   },
   {
@@ -2847,23 +2832,10 @@
     ]
   },
   {
-    "path": "js/OCR购买食材",
-    "authorLinks": [
-      "https://github.com/JJMdzh"
-    ]
-  },
-  {
     "path": "js/OcrMonsterNum",
     "authorLinks": [
       "https://github.com/Bedrockx",
       "https://github.com/Tooltingsu"
-    ]
-  },
-  {
-    "path": "js/ParametricTrans",
-    "authorLinks": [
-      "https://github.com/kaedelcb",
-      "https://github.com/Kirito520Asuna"
     ]
   },
   {
@@ -3001,12 +2973,6 @@
     ]
   },
   {
-    "path": "js/使用料理",
-    "authorLinks": [
-      "https://github.com/5117600049"
-    ]
-  },
-  {
     "path": "js/全队自动回满大招能量",
     "authorLinks": [
       "https://github.com/5117600049"
@@ -3059,19 +3025,6 @@
     "path": "js/批量讨伐角色养成材料BOSS",
     "authorLinks": [
       "https://github.com/1004452714"
-    ]
-  },
-  {
-    "path": "js/提瓦特百货商店",
-    "authorLinks": [
-      "https://github.com/Kotagan"
-    ]
-  },
-  {
-    "path": "js/料理制作及食材加工",
-    "authorLinks": [
-      "https://github.com/5117600049",
-      "https://github.com/jidingcai"
     ]
   },
   {
@@ -3185,6 +3138,12 @@
     ]
   },
   {
+    "path": "js/食材加工",
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
+  },
+  {
     "path": "js/食材加工极速版",
     "authorLinks": [
       "https://github.com/Bedrockx"
@@ -3214,8 +3173,7 @@
       "https://github.com/MisDandan23",
       "https://github.com/jiangziyanowo",
       "https://github.com/756yang",
-      "https://github.com/TingYu-lulumi",
-      "https://github.com/this-Fish",
+      "https://github.com/24qiaoyue",
       "https://github.com/Yang-z",
       "https://github.com/Tooltingsu",
       "https://github.com/zaodonganqi",
@@ -3223,6 +3181,7 @@
       "https://github.com/LX666-666",
       "https://github.com/huiyadanli",
       "https://github.com/RJFAC",
+      "https://github.com/this-Fish",
       "https://github.com/kaedelcb",
       "https://github.com/ddaodan",
       "https://github.com/Flatmirrr",
@@ -3232,8 +3191,6 @@
       "https://github.com/Traveler07",
       "https://github.com/Limint",
       "https://github.com/TheHeartFickle",
-      "https://github.com/SophieZ22",
-      "https://github.com/miludelongwang",
       "https://github.com/Patrick-Ze",
       "https://github.com/MeisterJ",
       "https://github.com/Because66666",
@@ -3249,10 +3206,10 @@
       "https://github.com/shilic",
       "https://github.com/himno",
       "https://github.com/Rosefinch-zzz",
+      "https://github.com/miludelongwang",
       "https://github.com/1004452714",
-      "https://github.com/Kotagan",
-      "https://github.com/jidingcai",
       "https://gitee.com/wangjian0327",
+      "https://github.com/jidingcai",
       "https://github.com/itslyh",
       "https://github.com/xiaozhang12312"
     ]
