@@ -1986,6 +1986,12 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/澄晶实/澄晶实@提瓦特钓鱼玳师",
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/澄晶实/纳西妲收集@Tool_tingsu",
     "authorLinks": [
       "https://github.com/Tooltingsu"
@@ -1994,6 +2000,7 @@
   {
     "path": "pathing/食材与炼金/澄晶实",
     "authorLinks": [
+      "https://github.com/Hijiwos",
       "https://github.com/Tooltingsu"
     ]
   },
@@ -2385,10 +2392,10 @@
       "https://github.com/Limint",
       "https://github.com/cx05121",
       "https: //github.com/OhmyPaoPao",
+      "https://github.com/Hijiwos",
       "https://github.com/SmomoL",
       "https://github.com/HZYgrandma",
       "https://github.com/ddaodan",
-      "https://github.com/Hijiwos",
       "https://github.com/RRRR623",
       "https://github.com/jiegedabaobei"
     ]
@@ -2582,6 +2589,12 @@
     "authorLinks": [
       "https://github.com/Hijiwos",
       "https://github.com/this-Fish"
+    ]
+  },
+  {
+    "path": "js/AutoFishingTeyvat-Bait",
+    "authorLinks": [
+      "https://github.com/Hijiwos"
     ]
   },
   {
@@ -2817,7 +2830,7 @@
     "path": "js/MiliastraExperiencePlayback",
     "authorLinks": [
       "https://github.com/breadgrocery/miliastra-experience-playback",
-      "https://github.com/A-Little-AnQi"
+      "https://github.com/zaodonganqi"
     ]
   },
   {
@@ -3233,12 +3246,12 @@
       "https://github.com/Because66666",
       "https://github.com/ftnfurina",
       "https://github.com/breadgrocery/miliastra-experience-playback",
-      "https://github.com/A-Little-AnQi",
       "https://github.com/coderzhlh",
       "https://github.com/JJMdzh",
       "https://github.com/1xygyty1",
       "https://github.com/skyflag2022",
       "https://github.com/Kupder",
+      "https://github.com/A-Little-AnQi",
       "https://github.com/KRdingsan",
       "https://github.com/shilic",
       "https://github.com/himno",
