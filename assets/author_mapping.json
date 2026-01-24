@@ -2457,10 +2457,7 @@
   },
   {
     "path": "js/AAA-Artifacts-Bulk-Supply",
-    "authorLinks": [
-      "https://github.com/Bedrockx",
-      "https://github.com/jiegedabaobei"
-    ]
+    "authorLinks": []
   },
   {
     "path": "js/ABGIHoui",
@@ -3216,8 +3213,6 @@
     "path": "js",
     "authorLinks": [
       "https://github.com/RRRR623",
-      "https://github.com/Bedrockx",
-      "https://github.com/jiegedabaobei",
       "https://github.com/wjdsg0327",
       "https://github.com/guyou45",
       "https://github.com/Hijiwos",
@@ -3229,6 +3224,8 @@
       "https://github.com/MisDandan23",
       "https://github.com/jiangziyanowo",
       "https://github.com/756yang",
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei",
       "https://github.com/24qiaoyue",
       "https://github.com/Yang-z",
       "https://github.com/Tooltingsu",
