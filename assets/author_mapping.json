@@ -119,9 +119,25 @@
     ]
   },
   {
-    "path": "pathing/地方特产/挪德卡莱/冬凌草",
+    "path": "pathing/地方特产/挪德卡莱/冬凌草/冬凌草@Tool_tingsu",
     "authorLinks": [
       "https://github.com/Tooltingsu"
+    ]
+  },
+  {
+    "path": "pathing/地方特产/挪德卡莱/冬凌草/冬凌草@白白喵",
+    "authorLinks": [
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish",
+      "https://github.com/Tooltingsu"
+    ]
+  },
+  {
+    "path": "pathing/地方特产/挪德卡莱/冬凌草",
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -146,6 +162,8 @@
     "path": "pathing/地方特产/挪德卡莱",
     "authorLinks": [
       "https://github.com/Tooltingsu",
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish",
       "https://github.com/Kirito520Asuna",
       "https://github.com/1004452714"
     ]
@@ -828,14 +846,14 @@
     "path": "pathing/地方特产",
     "authorLinks": [
       "https://github.com/Tooltingsu",
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish",
       "https://github.com/Kirito520Asuna",
       "https://github.com/1004452714",
       "https://github.com/jbcaaa",
-      "https://github.com/this-Fish",
       "https://github.com/cheese-bagel",
       "https://github.com/cx05121",
       "https://github.com/MisakaAldrich",
-      "https://github.com/taotao568685",
       "https://github.com/ryanlin594529",
       "https://github.com/KRdingsan",
       "https://github.com/ddaodan",
@@ -2408,13 +2426,13 @@
       "https://github.com/jiegedabaobei",
       "https://github.com/mfkvfhpdx",
       "https://github.com/Tooltingsu",
+      "https://github.com/taotao568685",
       "https://github.com/Kirito520Asuna",
       "https://github.com/1004452714",
       "https://github.com/jbcaaa",
       "https://github.com/cheese-bagel",
       "https://github.com/cx05121",
       "https://github.com/MisakaAldrich",
-      "https://github.com/taotao568685",
       "https://github.com/ryanlin594529",
       "https://github.com/KRdingsan",
       "https://github.com/ddaodan",
@@ -2457,7 +2475,10 @@
   },
   {
     "path": "js/AAA-Artifacts-Bulk-Supply",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "js/ABGIHoui",
@@ -3213,6 +3234,8 @@
     "path": "js",
     "authorLinks": [
       "https://github.com/RRRR623",
+      "https://github.com/Bedrockx",
+      "https://github.com/jiegedabaobei",
       "https://github.com/wjdsg0327",
       "https://github.com/guyou45",
       "https://github.com/Hijiwos",
@@ -3224,8 +3247,6 @@
       "https://github.com/MisDandan23",
       "https://github.com/jiangziyanowo",
       "https://github.com/756yang",
-      "https://github.com/Bedrockx",
-      "https://github.com/jiegedabaobei",
       "https://github.com/24qiaoyue",
       "https://github.com/Yang-z",
       "https://github.com/Tooltingsu",
