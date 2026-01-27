@@ -2324,16 +2324,10 @@
     ]
   },
   {
-    "path": "pathing/食材与炼金/马尾/无草神@忆雪晴",
-    "authorLinks": []
-  },
-  {
-    "path": "pathing/食材与炼金/马尾/马尾@玛卡巴卡",
-    "authorLinks": []
-  },
-  {
     "path": "pathing/食材与炼金/马尾",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
   },
   {
     "path": "pathing/食材与炼金/鱼肉",
@@ -2675,6 +2669,12 @@
     "path": "js/AutoMonday",
     "authorLinks": [
       "https://github.com/jiangziyanowo"
+    ]
+  },
+  {
+    "path": "js/AutoNewsKiller",
+    "authorLinks": [
+      "https://github.com/Bedrockx"
     ]
   },
   {
