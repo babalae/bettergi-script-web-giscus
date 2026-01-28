@@ -2560,6 +2560,12 @@
     ]
   },
   {
+    "path": "js/AutoBackpackCleaner",
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
+  },
+  {
     "path": "js/AutoCode",
     "authorLinks": [
       "https://github.com/Tooltingsu",
@@ -2873,6 +2879,12 @@
   },
   {
     "path": "js/OCR切换武器",
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
+  },
+  {
+    "path": "js/OCR文字坐标",
     "authorLinks": [
       "https://github.com/JJMdzh"
     ]
