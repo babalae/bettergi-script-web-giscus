@@ -2124,6 +2124,12 @@
     "authorLinks": []
   },
   {
+    "path": "pathing/食材与炼金/神秘的肉",
+    "authorLinks": [
+      "QQ:228844942"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/禽肉/禽肉@提瓦特钓鱼玳师",
     "authorLinks": [
       "https://github.com/Hijiwos"
@@ -2410,6 +2416,7 @@
       "https://github.com/SmomoL",
       "https://github.com/HZYgrandma",
       "https://github.com/ddaodan",
+      "QQ:228844942",
       "https://github.com/RRRR623",
       "https://github.com/jiegedabaobei"
     ]
@@ -2460,7 +2467,8 @@
       "https://github.com/aqing11520",
       "https: //github.com/OhmyPaoPao",
       "https://github.com/SmomoL",
-      "https://github.com/HZYgrandma"
+      "https://github.com/HZYgrandma",
+      "QQ:228844942"
     ]
   },
   {
@@ -2819,6 +2827,12 @@
     "path": "js/FollowsPet",
     "authorLinks": [
       "https://github.com/ftnfurina"
+    ]
+  },
+  {
+    "path": "js/FullyAutoAndSemiAutoTools",
+    "authorLinks": [
+      "https://github.com/Kirito520Asuna"
     ]
   },
   {
