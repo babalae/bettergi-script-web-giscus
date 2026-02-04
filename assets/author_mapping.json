@@ -3348,8 +3348,10 @@
     "authorLinks": []
   },
   {
-    "path": "combat/茜芙爱万[锄地精英改良版].txt",
-    "authorLinks": []
+    "path": "combat/茜芙爱万.txt",
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
   },
   {
     "path": "combat/莱爱万夜.txt",
@@ -3363,7 +3365,8 @@
     "path": "combat",
     "authorLinks": [
       "https://github.com/RRRR623",
-      "https://github.com/FZR1314521"
+      "https://github.com/FZR1314521",
+      "https://github.com/Bedrockx"
     ]
   },
   {
