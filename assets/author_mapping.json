@@ -2556,6 +2556,13 @@
     ]
   },
   {
+    "path": "js/AutoArtifactLockingSettings",
+    "authorLinks": [
+      "https://github.com/bling-yshs",
+      "https://github.com/Bedrockx"
+    ]
+  },
+  {
     "path": "js/AutoArtifactsSalvageOrDestroy（1-4star）",
     "authorLinks": [
       "https://github.com/24qiaoyue"
@@ -3274,6 +3281,7 @@
       "https://github.com/MisDandan23",
       "https://github.com/jiangziyanowo",
       "https://github.com/756yang",
+      "https://github.com/bling-yshs",
       "https://github.com/24qiaoyue",
       "https://github.com/Yang-z",
       "https://github.com/Tooltingsu",
