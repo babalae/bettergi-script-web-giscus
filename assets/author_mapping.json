@@ -2747,6 +2747,12 @@
     ]
   },
   {
+    "path": "js/AutoSwitchGraphicsSettings",
+    "authorLinks": [
+      "https://github.com/OvOAuto"
+    ]
+  },
+  {
     "path": "js/AutoSwitchRoles",
     "authorLinks": [
       "https://github.com/Tooltingsu"
@@ -3305,6 +3311,7 @@
       "https://github.com/214-hanyan",
       "https://github.com/ColinXHL",
       "https://github.com/Traveler07",
+      "https://github.com/OvOAuto",
       "https://github.com/Limint",
       "https://github.com/TheHeartFickle",
       "https://github.com/Patrick-Ze",
