@@ -2730,6 +2730,12 @@
     ]
   },
   {
+    "path": "js/AutoPlan",
+    "authorLinks": [
+      "https://github.com/Kirito520Asuna"
+    ]
+  },
+  {
     "path": "js/AutoRefinedCondensationResin",
     "authorLinks": [
       "https://github.com/this-Fish"
@@ -3577,6 +3583,10 @@
   },
   {
     "path": "tcg/酒馆挑战/酒馆挑战33摧岩之钺的困守.txt",
+    "authorLinks": []
+  },
+  {
+    "path": "tcg/酒馆挑战/酒馆挑战34金焰绒翼龙暴君的轰袭.txt",
     "authorLinks": []
   },
   {
