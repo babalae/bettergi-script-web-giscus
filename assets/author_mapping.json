@@ -2519,6 +2519,12 @@
     ]
   },
   {
+    "path": "js/AccountSwitchStateMachine",
+    "authorLinks": [
+      "https://github.com/Bedrockx"
+    ]
+  },
+  {
     "path": "js/ActivitySwitch",
     "authorLinks": [
       "https://github.com/Kirito520Asuna"
