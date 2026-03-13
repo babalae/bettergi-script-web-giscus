@@ -2183,22 +2183,9 @@
     ]
   },
   {
-    "path": "pathing/食材与炼金/苹果/苹果@不瘦五十斤不改名",
-    "authorLinks": [
-      "https://github.com/PanZic"
-    ]
-  },
-  {
-    "path": "pathing/食材与炼金/苹果/苹果@海豹穹穹队",
-    "authorLinks": [
-      "https: //github.com/OhmyPaoPao"
-    ]
-  },
-  {
     "path": "pathing/食材与炼金/苹果",
     "authorLinks": [
-      "https://github.com/PanZic",
-      "https: //github.com/OhmyPaoPao"
+      "https://github.com/PanZic"
     ]
   },
   {
@@ -2782,12 +2769,6 @@
     "path": "js/AutoSwitchRoles",
     "authorLinks": [
       "https://github.com/Tooltingsu"
-    ]
-  },
-  {
-    "path": "js/AutoTranscribePathing",
-    "authorLinks": [
-      "https://github.com/LX666-666"
     ]
   },
   {
