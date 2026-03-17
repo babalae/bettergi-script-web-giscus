@@ -2357,9 +2357,19 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/鳗肉/鳗肉@蜜柑魚",
+    "authorLinks": [
+      "https://github.com/MisDandan23",
+      "https://github.com/this-Fish",
+      "https: //github.com/OhmyPaoPao"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/鳗肉",
     "authorLinks": [
-      "https: //github.com/OhmyPaoPao"
+      "https: //github.com/OhmyPaoPao",
+      "https://github.com/MisDandan23",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -3211,7 +3221,7 @@
     ]
   },
   {
-    "path": "js/自动购买每天&3天&每周刷新商品",
+    "path": "js/自动购买商品",
     "authorLinks": [
       "https://github.com/this-Fish"
     ]
