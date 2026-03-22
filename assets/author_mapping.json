@@ -1342,9 +1342,22 @@
     ]
   },
   {
-    "path": "pathing/矿物/星银矿石",
+    "path": "pathing/矿物/星银矿石/大剑@Tool_tingsu",
     "authorLinks": [
       "https://github.com/Tooltingsu"
+    ]
+  },
+  {
+    "path": "pathing/矿物/星银矿石/迪希雅@蜜柑魚",
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
+    "path": "pathing/矿物/星银矿石",
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -1493,11 +1506,11 @@
     "path": "pathing/矿物",
     "authorLinks": [
       "https://github.com/Tooltingsu",
+      "https://github.com/this-Fish",
       "https://github.com/RRRR623",
       "https://github.com/cheese-bagel",
       "https://github.com/Kupder",
       "https://github.com/mfkvfhpdx",
-      "https://github.com/this-Fish",
       "https://github.com/non-repeating001"
     ]
   },
