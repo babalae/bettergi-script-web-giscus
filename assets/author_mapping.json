@@ -558,17 +558,20 @@
     ]
   },
   {
-    "path": "pathing/地方特产/蒙德/嘟嘟莲/嘟嘟莲@yulalaa&不瘦五十斤不改名",
+    "path": "pathing/地方特产/蒙德/嘟嘟莲/无草神@忆雪晴&Tool_tingsu",
     "authorLinks": [
-      "https://github.com/PanZic"
+      "https://github.com/Tooltingsu"
     ]
   },
   {
-    "path": "pathing/地方特产/蒙德/嘟嘟莲/无草神@忆雪晴",
-    "authorLinks": []
+    "path": "pathing/地方特产/蒙德/嘟嘟莲/草神收集@yulalaa&不瘦五十斤不改名&Tool_tingsu",
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
-    "path": "pathing/地方特产/蒙德/嘟嘟莲/有草神效率路线@彩虹QQ人",
+    "path": "pathing/地方特产/蒙德/嘟嘟莲/草神收集效率路线@彩虹QQ人",
     "authorLinks": [
       "https://github.com/KRdingsan"
     ]
@@ -576,6 +579,7 @@
   {
     "path": "pathing/地方特产/蒙德/嘟嘟莲",
     "authorLinks": [
+      "https://github.com/Tooltingsu",
       "https://github.com/PanZic",
       "https://github.com/KRdingsan"
     ]
@@ -622,10 +626,11 @@
     ]
   },
   {
-    "path": "pathing/地方特产/蒙德/慕风蘑菇/有草神@秋云",
+    "path": "pathing/地方特产/蒙德/慕风蘑菇/有草神@秋云&Tool_tingsu",
     "authorLinks": [
       "https://github.com/physligl",
-      "https://github.com/MisakaAldrich"
+      "https://github.com/MisakaAldrich",
+      "https://github.com/Tooltingsu"
     ]
   },
   {
@@ -637,18 +642,40 @@
     ]
   },
   {
+    "path": "pathing/地方特产/蒙德/空羽蛾/空羽蛾@Tool_tingsu",
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
+  },
+  {
+    "path": "pathing/地方特产/蒙德/空羽蛾/空羽蛾@ddaodan",
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
+  },
+  {
+    "path": "pathing/地方特产/蒙德/空羽蛾",
+    "authorLinks": [
+      "https://github.com/Tooltingsu",
+      "https://github.com/ddaodan"
+    ]
+  },
+  {
+    "path": "pathing/地方特产/蒙德/落落莓/无草神@yulalaa&Tool_tingsu",
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
+  },
+  {
     "path": "pathing/地方特产/蒙德/落落莓/有草神效率路线@彩虹丘丘人",
     "authorLinks": [
       "https://github.com/KRdingsan"
     ]
   },
   {
-    "path": "pathing/地方特产/蒙德/落落莓/落落莓@yulalaa",
-    "authorLinks": []
-  },
-  {
     "path": "pathing/地方特产/蒙德/落落莓",
     "authorLinks": [
+      "https://github.com/Tooltingsu",
       "https://github.com/KRdingsan"
     ]
   },
@@ -690,33 +717,33 @@
     ]
   },
   {
+    "path": "pathing/地方特产/蒙德/风车菊/无草神@柠檬茶叶&Tool_tingsu",
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
+  },
+  {
     "path": "pathing/地方特产/蒙德/风车菊/有草神效率路线@彩虹QQ人",
     "authorLinks": [
       "https://github.com/KRdingsan"
     ]
   },
   {
-    "path": "pathing/地方特产/蒙德/风车菊/风车菊@tignioj",
-    "authorLinks": []
-  },
-  {
-    "path": "pathing/地方特产/蒙德/风车菊/风车菊@柠檬茶叶",
-    "authorLinks": []
-  },
-  {
     "path": "pathing/地方特产/蒙德/风车菊",
     "authorLinks": [
+      "https://github.com/Tooltingsu",
       "https://github.com/KRdingsan"
     ]
   },
   {
     "path": "pathing/地方特产/蒙德",
     "authorLinks": [
+      "https://github.com/Tooltingsu",
       "https://github.com/PanZic",
       "https://github.com/KRdingsan",
-      "https://github.com/Tooltingsu",
       "https://github.com/physligl",
-      "https://github.com/MisakaAldrich"
+      "https://github.com/MisakaAldrich",
+      "https://github.com/ddaodan"
     ]
   },
   {
@@ -1197,6 +1224,12 @@
     ]
   },
   {
+    "path": "pathing/敌人与魔物/辖域守护者",
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
+  },
+  {
     "path": "pathing/敌人与魔物/遗迹守卫",
     "authorLinks": [
       "https://github.com/xwsqy6"
@@ -1407,7 +1440,8 @@
   {
     "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/蒙德",
     "authorLinks": [
-      "https://github.com/RRRR623"
+      "https://github.com/RRRR623",
+      "https://github.com/cheese-bagel"
     ]
   },
   {
@@ -1502,6 +1536,18 @@
     "path": "pathing/矿物/虹滴晶",
     "authorLinks": [
       "https://github.com/cheese-bagel"
+    ]
+  },
+  {
+    "path": "pathing/矿物/铁块/富集路线@Tool_tingsu",
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
+  },
+  {
+    "path": "pathing/矿物/铁块",
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
     ]
   },
   {
@@ -2327,6 +2373,12 @@
     "path": "pathing/食材与炼金/颗粒果",
     "authorLinks": [
       "https://github.com/PanZic"
+    ]
+  },
+  {
+    "path": "pathing/食材与炼金/风息花",
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
     ]
   },
   {
