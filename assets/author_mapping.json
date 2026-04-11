@@ -1505,6 +1505,12 @@
     ]
   },
   {
+    "path": "pathing/矿物/莉奈娅一条龙",
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
+  },
+  {
     "path": "pathing/矿物/萃凝晶/枫丹[钟离版]@cy",
     "authorLinks": []
   },
@@ -3450,7 +3456,9 @@
   },
   {
     "path": "combat/全配队通用（日常向）.txt",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/CLlllCL"
+    ]
   },
   {
     "path": "combat/奈草女钟万妮芭菈-副本.txt",
@@ -3460,15 +3468,21 @@
   },
   {
     "path": "combat/恰斯卡队(恰火莱琴)-副本.txt",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/ZJYC"
+    ]
   },
   {
     "path": "combat/恰斯卡队(恰钟芭班)-副本.txt",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/LinFei83"
+    ]
   },
   {
     "path": "combat/神鹤万钟.txt",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/hamster-chen"
+    ]
   },
   {
     "path": "combat/茜芙爱万.txt",
@@ -3484,7 +3498,9 @@
   },
   {
     "path": "combat/雷神国家队-副本.txt",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/HaryJS"
+    ]
   },
   {
     "path": "combat/风散兵-副本.txt",
@@ -3494,8 +3510,13 @@
     "path": "combat",
     "authorLinks": [
       "https://github.com/RRRR623",
+      "https://github.com/CLlllCL",
       "https://github.com/FZR1314521",
-      "https://github.com/Bedrockx"
+      "https://github.com/ZJYC",
+      "https://github.com/LinFei83",
+      "https://github.com/hamster-chen",
+      "https://github.com/Bedrockx",
+      "https://github.com/HaryJS"
     ]
   },
   {
