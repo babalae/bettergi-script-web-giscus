@@ -2243,10 +2243,27 @@
     ]
   },
   {
-    "path": "pathing/食材与炼金/苦种",
+    "path": "pathing/食材与炼金/苦种/苦种@不瘦五十斤不改名",
     "authorLinks": [
       "https://github.com/PanZic",
       "https://github.com/cheese-bagel"
+    ]
+  },
+  {
+    "path": "pathing/食材与炼金/苦种/苦种@蜜柑魚",
+    "authorLinks": [
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish",
+      "https://github.com/cheese-bagel"
+    ]
+  },
+  {
+    "path": "pathing/食材与炼金/苦种",
+    "authorLinks": [
+      "https://github.com/PanZic",
+      "https://github.com/cheese-bagel",
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -2754,7 +2771,8 @@
   {
     "path": "js/AutoFriendshipFowl",
     "authorLinks": [
-      "https://github.com/physligl"
+      "https://github.com/physligl",
+      "https://github.com/Gedley"
     ]
   },
   {
@@ -3410,6 +3428,7 @@
       "https://github.com/ddaodan",
       "https://github.com/Flatmirrr",
       "https://github.com/5117600049",
+      "https://github.com/Gedley",
       "https://github.com/214-hanyan",
       "https://github.com/ColinXHL",
       "https://github.com/Traveler07",
