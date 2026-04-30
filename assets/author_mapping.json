@@ -1940,6 +1940,12 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/松茸/无草神@蜜柑魚",
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/松茸/有草神@曦",
     "authorLinks": [
       "https://github.com/cx05121"
@@ -1949,6 +1955,7 @@
     "path": "pathing/食材与炼金/松茸",
     "authorLinks": [
       "https://github.com/taotao568685",
+      "https://github.com/this-Fish",
       "https://github.com/cx05121"
     ]
   },
@@ -2986,6 +2993,12 @@
     "path": "js/Language",
     "authorLinks": [
       "https://github.com/ddaodan"
+    ]
+  },
+  {
+    "path": "js/LinneaMining",
+    "authorLinks": [
+      "https://github.com/zaodonganqi"
     ]
   },
   {
