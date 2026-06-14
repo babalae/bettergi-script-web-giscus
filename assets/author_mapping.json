@@ -1567,6 +1567,56 @@
     ]
   },
   {
+    "path": "pathing/矿物/魔晶矿/挪德卡莱",
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
+  },
+  {
+    "path": "pathing/矿物/魔晶矿/枫丹",
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
+  },
+  {
+    "path": "pathing/矿物/魔晶矿/璃月",
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
+  },
+  {
+    "path": "pathing/矿物/魔晶矿/稻妻",
+    "authorLinks": [
+      "https://github.com/vulgar-rustic",
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
+    "path": "pathing/矿物/魔晶矿/纳塔",
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
+  },
+  {
+    "path": "pathing/矿物/魔晶矿/蒙德",
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
+  },
+  {
+    "path": "pathing/矿物/魔晶矿/须弥",
+    "authorLinks": [
+      "https://github.com/vulgar-rustic"
+    ]
+  },
+  {
+    "path": "pathing/矿物/魔晶矿",
+    "authorLinks": [
+      "https://github.com/vulgar-rustic",
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
     "path": "pathing/矿物",
     "authorLinks": [
       "https://github.com/Tooltingsu",
@@ -1575,7 +1625,8 @@
       "https://github.com/cheese-bagel",
       "https://github.com/Kupder",
       "https://github.com/mfkvfhpdx",
-      "https://github.com/non-repeating001"
+      "https://github.com/non-repeating001",
+      "https://github.com/vulgar-rustic"
     ]
   },
   {
@@ -2879,7 +2930,8 @@
   {
     "path": "js/AutoStygianOnslaught",
     "authorLinks": [
-      "https://github.com/kaedelcb"
+      "https://github.com/kaedelcb",
+      "https://github.com/aaahai00"
     ]
   },
   {
@@ -3466,6 +3518,7 @@
       "https://github.com/214-hanyan",
       "https://github.com/ColinXHL",
       "https://github.com/Traveler07",
+      "https://github.com/aaahai00",
       "https://github.com/OvOAuto",
       "https://github.com/Limint",
       "https://github.com/TheHeartFickle",
@@ -3547,10 +3600,18 @@
     ]
   },
   {
+    "path": "combat/火神队(火希特茜).txt",
+    "authorLinks": []
+  },
+  {
     "path": "combat/神鹤万钟.txt",
     "authorLinks": [
       "https://github.com/hamster-chen"
     ]
+  },
+  {
+    "path": "combat/种门（草行久钟）.txt",
+    "authorLinks": []
   },
   {
     "path": "combat/茜芙爱万.txt",
