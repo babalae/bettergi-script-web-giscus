@@ -176,7 +176,9 @@
   },
   {
     "path": "pathing/地方特产/枫丹/子探测单元",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/Tooltingsu"
+    ]
   },
   {
     "path": "pathing/地方特产/枫丹/幽光星星/幽光星星@jbcaaa",
@@ -2740,6 +2742,12 @@
     ]
   },
   {
+    "path": "js/ArtifactScore",
+    "authorLinks": [
+      "https://github.com/zaodonganqi"
+    ]
+  },
+  {
     "path": "js/ArtifactsAssistant",
     "authorLinks": [
       "https://github.com/756yang"
@@ -3520,12 +3528,12 @@
       "https://github.com/MisDandan23",
       "https://github.com/jiangziyanowo",
       "https://github.com/skyflag2022",
+      "https://github.com/zaodonganqi",
       "https://github.com/756yang",
       "https://github.com/bling-yshs",
       "https://github.com/24qiaoyue",
       "https://github.com/Yang-z",
       "https://github.com/Tooltingsu",
-      "https://github.com/zaodonganqi",
       "https://github.com/NyaMisty",
       "https://github.com/LX666-666",
       "https://github.com/huiyadanli",
