@@ -3227,6 +3227,12 @@
     ]
   },
   {
+    "path": "js/TeleportActivationChecker",
+    "authorLinks": [
+      "https://github.com/physligl"
+    ]
+  },
+  {
     "path": "js/TeyvatScanner",
     "authorLinks": [
       "https://github.com/Bedrockx",
