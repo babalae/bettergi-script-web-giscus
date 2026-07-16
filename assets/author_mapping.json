@@ -3212,6 +3212,12 @@
     ]
   },
   {
+    "path": "js/StarfieldRaimentCollection",
+    "authorLinks": [
+      "https://github.com/Hijiwos"
+    ]
+  },
+  {
     "path": "js/SwitchAccountMultipleMode",
     "authorLinks": [
       "https://github.com/MisakaAldrich",
