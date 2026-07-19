@@ -2437,6 +2437,13 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/金鱼草/金魚草@蜜柑魚",
+    "authorLinks": [
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/金鱼草/金鱼草@曦",
     "authorLinks": [
       "https://github.com/cx05121"
@@ -2451,8 +2458,9 @@
   {
     "path": "pathing/食材与炼金/金鱼草",
     "authorLinks": [
-      "https://github.com/cx05121",
-      "https://github.com/taotao568685"
+      "https://github.com/taotao568685",
+      "https://github.com/this-Fish",
+      "https://github.com/cx05121"
     ]
   },
   {
