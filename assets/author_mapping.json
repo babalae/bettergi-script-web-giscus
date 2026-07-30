@@ -966,23 +966,28 @@
   {
     "path": "pathing/敌人与魔物/债务处理人",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/vulgar-rustic",
+      "https://github.com/zhy0070"
     ]
   },
   {
     "path": "pathing/敌人与魔物/元能构装体",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/vulgar-rustic",
+      "https://github.com/zhy0070"
     ]
   },
   {
     "path": "pathing/敌人与魔物/兽境之狼",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/zhy0070"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/冬国仕女",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/vulgar-rustic",
+      "https://github.com/zhy0070"
     ]
   },
   {
@@ -1035,7 +1040,8 @@
     "path": "pathing/敌人与魔物/大灵显化身",
     "authorLinks": [
       "https://github.com/vulgar-rustic",
-      "https://github.com/MisakaAldrich"
+      "https://github.com/MisakaAldrich",
+      "https://github.com/zhy0070"
     ]
   },
   {
@@ -1192,7 +1198,8 @@
   {
     "path": "pathing/敌人与魔物/秘源机兵",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/vulgar-rustic",
+      "https://github.com/zhy0070"
     ]
   },
   {
@@ -1222,7 +1229,8 @@
   {
     "path": "pathing/敌人与魔物/萤术士",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/vulgar-rustic",
+      "https://github.com/zhy0070"
     ]
   },
   {
@@ -1392,6 +1400,7 @@
       "https://github.com/vulgar-rustic",
       "https://github.com/xwsqy6",
       "https://github.com/ddaodan",
+      "https://github.com/zhy0070",
       "https://github.com/evildoer12138",
       "https://github.com/Traveler07",
       "https://github.com/jidingcai",
@@ -1592,50 +1601,50 @@
   {
     "path": "pathing/矿物/魔晶矿/挪德卡莱",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/zhy0070"
     ]
   },
   {
     "path": "pathing/矿物/魔晶矿/枫丹",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/zhy0070"
     ]
   },
   {
     "path": "pathing/矿物/魔晶矿/璃月",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/zhy0070"
     ]
   },
   {
     "path": "pathing/矿物/魔晶矿/稻妻",
     "authorLinks": [
-      "https://github.com/vulgar-rustic",
+      "https://github.com/zhy0070",
       "https://github.com/this-Fish"
     ]
   },
   {
     "path": "pathing/矿物/魔晶矿/纳塔",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/zhy0070"
     ]
   },
   {
     "path": "pathing/矿物/魔晶矿/蒙德",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/zhy0070"
     ]
   },
   {
     "path": "pathing/矿物/魔晶矿/须弥",
     "authorLinks": [
-      "https://github.com/vulgar-rustic"
+      "https://github.com/zhy0070"
     ]
   },
   {
     "path": "pathing/矿物/魔晶矿",
     "authorLinks": [
-      "https://github.com/vulgar-rustic",
+      "https://github.com/zhy0070",
       "https://github.com/this-Fish"
     ]
   },
@@ -1649,7 +1658,7 @@
       "https://github.com/Kupder",
       "https://github.com/mfkvfhpdx",
       "https://github.com/non-repeating001",
-      "https://github.com/vulgar-rustic"
+      "https://github.com/zhy0070"
     ]
   },
   {
@@ -2089,6 +2098,12 @@
     "authorLinks": [
       "https://github.com/taotao568685",
       "https://github.com/jhkif"
+    ]
+  },
+  {
+    "path": "pathing/食材与炼金/毗波耶",
+    "authorLinks": [
+      "https://github.com/zhy0070"
     ]
   },
   {
@@ -2611,6 +2626,7 @@
       "https://github.com/Kirito520Asuna",
       "https://github.com/Limint",
       "https://github.com/cx05121",
+      "https://github.com/zhy0070",
       "https: //github.com/OhmyPaoPao",
       "https://github.com/Hijiwos",
       "https://github.com/SmomoL",
@@ -2649,6 +2665,7 @@
       "https://github.com/Annijang",
       "https://github.com/vulgar-rustic",
       "https://github.com/xwsqy6",
+      "https://github.com/zhy0070",
       "https://github.com/evildoer12138",
       "https://github.com/jidingcai",
       "https://github.com/C-01-11011",
