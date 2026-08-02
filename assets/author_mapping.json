@@ -2397,9 +2397,16 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/莲蓬/莲蓬@蜜柑魚",
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/莲蓬",
     "authorLinks": [
-      "https://github.com/PanZic"
+      "https://github.com/PanZic",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -3284,14 +3291,6 @@
   {
     "path": "js/Tool_mint",
     "authorLinks": [
-      "https://github.com/Tooltingsu"
-    ]
-  },
-  {
-    "path": "js/TravelersTales",
-    "authorLinks": [
-      "https://github.com/ddaodan",
-      "https://github.com/physligl",
       "https://github.com/Tooltingsu"
     ]
   },
