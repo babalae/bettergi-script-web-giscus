@@ -1888,6 +1888,12 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/堇瓜/堇瓜(万叶)",
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/堇瓜/有草神",
     "authorLinks": [
       "https://github.com/MisakaAldrich",
@@ -1897,8 +1903,8 @@
   {
     "path": "pathing/食材与炼金/堇瓜",
     "authorLinks": [
-      "https://github.com/MisakaAldrich",
-      "https://github.com/this-Fish"
+      "https://github.com/this-Fish",
+      "https://github.com/MisakaAldrich"
     ]
   },
   {
@@ -3443,6 +3449,12 @@
     ]
   },
   {
+    "path": "js/提瓦特记事本",
+    "authorLinks": [
+      "https://github.com/itslyh"
+    ]
+  },
+  {
     "path": "js/日志分析工具",
     "authorLinks": [
       "https://github.com/this-Fish"
@@ -3543,7 +3555,8 @@
   {
     "path": "js/采集cd管理",
     "authorLinks": [
-      "https://github.com/Bedrockx"
+      "https://github.com/Bedrockx",
+      "https://github.com/this-Fish"
     ]
   },
   {
