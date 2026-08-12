@@ -2844,10 +2844,13 @@
   {
     "path": "js/AutoCommission",
     "authorLinks": [
-      "https://github.com/1004452714",
-      "https://github.com/LX666-666",
-      "https://github.com/dcvsd24",
-      "https://github.com/xoipz"
+      "https://github.com/LX666-666"
+    ]
+  },
+  {
+    "path": "js/AutoCommissionNova",
+    "authorLinks": [
+      "https://github.com/1004452714"
     ]
   },
   {
@@ -3616,10 +3619,8 @@
       "https://github.com/Yang-z",
       "https://github.com/Tooltingsu",
       "https://github.com/NyaMisty",
-      "https://github.com/1004452714",
       "https://github.com/LX666-666",
-      "https://github.com/dcvsd24",
-      "https://github.com/xoipz",
+      "https://github.com/1004452714",
       "https://github.com/huiyadanli",
       "https://github.com/RJFAC",
       "https://github.com/zephyr-bell",
