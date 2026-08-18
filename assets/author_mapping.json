@@ -575,6 +575,12 @@
     ]
   },
   {
+    "path": "pathing/地方特产/至冬/植绒草",
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
+  },
+  {
     "path": "pathing/地方特产/至冬/霜仙花",
     "authorLinks": [
       "https://github.com/Tooltingsu"
@@ -583,6 +589,7 @@
   {
     "path": "pathing/地方特产/至冬",
     "authorLinks": [
+      "https://github.com/ddaodan",
       "https://github.com/Tooltingsu"
     ]
   },
@@ -2959,7 +2966,8 @@
       "https://github.com/RRRR623",
       "https://github.com/214-hanyan",
       "https://github.com/ColinXHL",
-      "https://github.com/Kirito520Asuna"
+      "https://github.com/Kirito520Asuna",
+      "https://github.com/aaahai00"
     ]
   },
   {
