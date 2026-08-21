@@ -1003,6 +1003,18 @@
     ]
   },
   {
+    "path": "pathing/敌人与魔物/兽怪暴徒/兽怪暴徒@Annijang",
+    "authorLinks": [
+      "https://github.com/Annijang"
+    ]
+  },
+  {
+    "path": "pathing/敌人与魔物/兽怪暴徒",
+    "authorLinks": [
+      "https://github.com/Annijang"
+    ]
+  },
+  {
     "path": "pathing/敌人与魔物/冬国仕女",
     "authorLinks": [
       "https://github.com/vulgar-rustic",
@@ -1103,6 +1115,18 @@
     "path": "pathing/敌人与魔物/巡陆艇",
     "authorLinks": [
       "https://github.com/Tooltingsu"
+    ]
+  },
+  {
+    "path": "pathing/敌人与魔物/异种合成魔兽/异种合成魔兽@Annijang",
+    "authorLinks": [
+      "https://github.com/Annijang"
+    ]
+  },
+  {
+    "path": "pathing/敌人与魔物/异种合成魔兽",
+    "authorLinks": [
+      "https://github.com/Annijang"
     ]
   },
   {
@@ -1228,6 +1252,30 @@
   {
     "path": "pathing/敌人与魔物/纳塔龙众和部族龙形武士",
     "authorLinks": []
+  },
+  {
+    "path": "pathing/敌人与魔物/肌生晶石的妖精/肌生晶石的妖精@Annijang",
+    "authorLinks": [
+      "https://github.com/Annijang"
+    ]
+  },
+  {
+    "path": "pathing/敌人与魔物/肌生晶石的妖精",
+    "authorLinks": [
+      "https://github.com/Annijang"
+    ]
+  },
+  {
+    "path": "pathing/敌人与魔物/荒野树妖/荒野树妖@Annijang",
+    "authorLinks": [
+      "https://github.com/Annijang"
+    ]
+  },
+  {
+    "path": "pathing/敌人与魔物/荒野树妖",
+    "authorLinks": [
+      "https://github.com/Annijang"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/荒野狂猎/荒野狂猎@jay",
@@ -3261,7 +3309,8 @@
     "path": "js/PurchaseArtifacts",
     "authorLinks": [
       "https://github.com/5117600049",
-      "https://github.com/skyflag2022"
+      "https://github.com/skyflag2022",
+      "https://github.com/Leeon-666"
     ]
   },
   {
