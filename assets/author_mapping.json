@@ -248,6 +248,10 @@
     ]
   },
   {
+    "path": "pathing/地方特产/璃月/夜泊石/夜泊石地下@烤鱼",
+    "authorLinks": []
+  },
+  {
     "path": "pathing/地方特产/璃月/夜泊石",
     "authorLinks": [
       "https://github.com/Tooltingsu",
@@ -320,6 +324,14 @@
       "https://github.com/taotao568685",
       "https://github.com/MisakaAldrich"
     ]
+  },
+  {
+    "path": "pathing/地方特产/璃月/石珀/石珀@爱凑热闹",
+    "authorLinks": []
+  },
+  {
+    "path": "pathing/地方特产/璃月/石珀/石珀地下@烤鱼",
+    "authorLinks": []
   },
   {
     "path": "pathing/地方特产/璃月/石珀",
@@ -1388,6 +1400,10 @@
     "authorLinks": []
   },
   {
+    "path": "pathing/敌人与魔物/雷火大蕈",
+    "authorLinks": []
+  },
+  {
     "path": "pathing/敌人与魔物/霜夜灵嗣",
     "authorLinks": [
       "https://github.com/evildoer12138",
@@ -1695,6 +1711,10 @@
     "authorLinks": [
       "https://github.com/zhy0070"
     ]
+  },
+  {
+    "path": "pathing/矿物/魔晶矿/至冬",
+    "authorLinks": []
   },
   {
     "path": "pathing/矿物/魔晶矿/蒙德",
