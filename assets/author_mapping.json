@@ -1020,6 +1020,10 @@
     ]
   },
   {
+    "path": "pathing/敌人与魔物/先驱秘源统辖阵列",
+    "authorLinks": []
+  },
+  {
     "path": "pathing/敌人与魔物/兽境之狼",
     "authorLinks": [
       "https://github.com/zhy0070"
@@ -2872,7 +2876,8 @@
   {
     "path": "js/AccountSwitchStateMachine",
     "authorLinks": [
-      "https://github.com/Bedrockx"
+      "https://github.com/Bedrockx",
+      "https://github.com/aaahai00"
     ]
   },
   {
@@ -3265,6 +3270,10 @@
     ]
   },
   {
+    "path": "js/IceObjectNpcLike",
+    "authorLinks": []
+  },
+  {
     "path": "js/JoinFriendsWorld",
     "authorLinks": [
       "https://github.com/ftnfurina"
@@ -3653,6 +3662,12 @@
     ]
   },
   {
+    "path": "js/自动寻怪-手动战斗",
+    "authorLinks": [
+      "https://github.com/JJMdzh"
+    ]
+  },
+  {
     "path": "js/自动循环使用料理",
     "authorLinks": [
       "https://github.com/jidingcai"
@@ -3748,6 +3763,7 @@
       "https://github.com/HZYgrandma",
       "https://github.com/cheese-bagel",
       "https://github.com/physligl",
+      "https://github.com/aaahai00",
       "https://github.com/Kirito520Asuna",
       "https://github.com/MisDandan23",
       "https://github.com/jiangziyanowo",
@@ -3764,7 +3780,6 @@
       "https://github.com/huiyadanli",
       "https://github.com/RJFAC",
       "https://github.com/zephyr-bell",
-      "https://github.com/aaahai00",
       "https://github.com/this-Fish",
       "https://github.com/kaedelcb",
       "https://github.com/ddaodan",
