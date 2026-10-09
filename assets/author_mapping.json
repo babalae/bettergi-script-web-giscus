@@ -1582,6 +1582,12 @@
     ]
   },
   {
+    "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/至冬",
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
     "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果/蒙德",
     "authorLinks": [
       "https://github.com/RRRR623",
@@ -1598,7 +1604,8 @@
     "path": "pathing/矿物/水晶块/水晶块[大剑]@火山@芝士贝果",
     "authorLinks": [
       "https://github.com/RRRR623",
-      "https://github.com/cheese-bagel"
+      "https://github.com/cheese-bagel",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -1613,6 +1620,7 @@
     "authorLinks": [
       "https://github.com/RRRR623",
       "https://github.com/cheese-bagel",
+      "https://github.com/this-Fish",
       "https://github.com/Kupder",
       "https://github.com/mfkvfhpdx"
     ]
@@ -1689,9 +1697,16 @@
     ]
   },
   {
+    "path": "pathing/矿物/虹滴晶/至冬[大劍]",
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
     "path": "pathing/矿物/虹滴晶",
     "authorLinks": [
-      "https://github.com/cheese-bagel"
+      "https://github.com/cheese-bagel",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -3413,6 +3428,12 @@
     ]
   },
   {
+    "path": "js/RaidenColleiKeqingPlayer",
+    "authorLinks": [
+      "https://github.com/sxy8161-debug"
+    ]
+  },
+  {
     "path": "js/RoleExperienceCalculation",
     "authorLinks": []
   },
@@ -3831,6 +3852,7 @@
       "https://github.com/JJMdzh",
       "https://github.com/1xygyty1",
       "https://github.com/Purfeather",
+      "https://github.com/sxy8161-debug",
       "https://github.com/Kupder",
       "https://github.com/A-Little-AnQi",
       "https://github.com/KRdingsan",
