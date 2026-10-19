@@ -595,9 +595,16 @@
     ]
   },
   {
+    "path": "pathing/地方特产/至冬/植绒草/植绒草@Yuhong88",
+    "authorLinks": [
+      "https://github.com/Yuhong88"
+    ]
+  },
+  {
     "path": "pathing/地方特产/至冬/植绒草",
     "authorLinks": [
-      "https://github.com/ddaodan"
+      "https://github.com/ddaodan",
+      "https://github.com/Yuhong88"
     ]
   },
   {
@@ -616,6 +623,7 @@
     "path": "pathing/地方特产/至冬",
     "authorLinks": [
       "https://github.com/ddaodan",
+      "https://github.com/Yuhong88",
       "https://github.com/PanZic",
       "https://github.com/Tooltingsu"
     ]
@@ -965,6 +973,7 @@
       "https://github.com/Flower-MUYi",
       "https://github.com/jiegedabaobei",
       "https://github.com/xd1145",
+      "https://github.com/Yuhong88",
       "https://github.com/PanZic",
       "https://github.com/physligl",
       "https://github.com/pkjsjq",
@@ -2826,6 +2835,7 @@
       "https://github.com/ddaodan",
       "https://github.com/Flower-MUYi",
       "https://github.com/xd1145",
+      "https://github.com/Yuhong88",
       "https://github.com/PanZic",
       "https://github.com/physligl",
       "https://github.com/pkjsjq",
@@ -3429,9 +3439,7 @@
   },
   {
     "path": "js/RaidenColleiKeqingPlayer",
-    "authorLinks": [
-      "https://github.com/sxy8161-debug"
-    ]
+    "authorLinks": []
   },
   {
     "path": "js/RoleExperienceCalculation",
@@ -3852,7 +3860,6 @@
       "https://github.com/JJMdzh",
       "https://github.com/1xygyty1",
       "https://github.com/Purfeather",
-      "https://github.com/sxy8161-debug",
       "https://github.com/Kupder",
       "https://github.com/A-Little-AnQi",
       "https://github.com/KRdingsan",
