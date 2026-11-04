@@ -595,6 +595,12 @@
     ]
   },
   {
+    "path": "pathing/地方特产/至冬/妖精绿艾",
+    "authorLinks": [
+      "https://github.com/ddaodan"
+    ]
+  },
+  {
     "path": "pathing/地方特产/至冬/植绒草/植绒草@Yuhong88",
     "authorLinks": [
       "https://github.com/Yuhong88"
@@ -628,8 +634,8 @@
   {
     "path": "pathing/地方特产/至冬",
     "authorLinks": [
-      "https://github.com/Yuhong88",
       "https://github.com/ddaodan",
+      "https://github.com/Yuhong88",
       "https://github.com/PanZic",
       "https://github.com/Tooltingsu"
     ]
