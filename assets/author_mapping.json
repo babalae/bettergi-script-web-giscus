@@ -2514,10 +2514,29 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/竹笋/无草神@不瘦五十斤不改名",
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
+  },
+  {
+    "path": "pathing/食材与炼金/竹笋/无草神@蜜柑魚",
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
+    "path": "pathing/食材与炼金/竹笋/有草神@灰林鸮",
+    "authorLinks": [
+      "https://github.com/Strix-nivicolum"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/竹笋",
     "authorLinks": [
-      "https://github.com/Strix-nivicolum",
-      "https://github.com/PanZic"
+      "https://github.com/PanZic",
+      "https://github.com/this-Fish",
+      "https://github.com/Strix-nivicolum"
     ]
   },
   {
@@ -3034,7 +3053,8 @@
       "https://github.com/Tooltingsu",
       "https://github.com/zaodonganqi",
       "https://github.com/NyaMisty",
-      "https://github.com/Kirito520Asuna"
+      "https://github.com/Kirito520Asuna",
+      "https://github.com/aaahai00"
     ]
   },
   {
