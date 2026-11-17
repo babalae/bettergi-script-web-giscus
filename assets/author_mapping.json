@@ -1072,7 +1072,9 @@
   },
   {
     "path": "pathing/敌人与魔物/先驱秘源统辖阵列",
-    "authorLinks": []
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
   },
   {
     "path": "pathing/敌人与魔物/兽境之狼",
@@ -1087,9 +1089,16 @@
     ]
   },
   {
+    "path": "pathing/敌人与魔物/兽怪暴徒/兽怪暴徒@汐",
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
+  },
+  {
     "path": "pathing/敌人与魔物/兽怪暴徒",
     "authorLinks": [
-      "https://github.com/Annijang"
+      "https://github.com/Annijang",
+      "https://github.com/jiegedabaobei"
     ]
   },
   {
@@ -1202,9 +1211,23 @@
     ]
   },
   {
+    "path": "pathing/敌人与魔物/异种合成魔兽/异种合成魔兽@汐",
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
+  },
+  {
+    "path": "pathing/敌人与魔物/异种合成魔兽/异种合成魔兽@蜜柑魚",
+    "authorLinks": [
+      "https://github.com/this-Fish"
+    ]
+  },
+  {
     "path": "pathing/敌人与魔物/异种合成魔兽",
     "authorLinks": [
-      "https://github.com/Annijang"
+      "https://github.com/Annijang",
+      "https://github.com/jiegedabaobei",
+      "https://github.com/this-Fish"
     ]
   },
   {
@@ -1350,9 +1373,16 @@
     ]
   },
   {
+    "path": "pathing/敌人与魔物/荒野树妖/荒野树妖@汐",
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
+  },
+  {
     "path": "pathing/敌人与魔物/荒野树妖",
     "authorLinks": [
-      "https://github.com/Annijang"
+      "https://github.com/Annijang",
+      "https://github.com/jiegedabaobei"
     ]
   },
   {
@@ -1550,11 +1580,13 @@
       "https://github.com/xwsqy6",
       "https://github.com/ddaodan",
       "https://github.com/zhy0070",
+      "https://github.com/jiegedabaobei",
       "https://github.com/evildoer12138",
       "https://github.com/Traveler07",
       "https://github.com/jidingcai",
       "https://github.com/MisakaAldrich",
       "https://github.com/Tooltingsu",
+      "https://github.com/this-Fish",
       "https://github.com/C-01-11011",
       "https://github.com/FuYeqi",
       "https://github.com/Kirito520Asuna",
@@ -1563,7 +1595,6 @@
       "https://github.com/batvbs",
       "https://github.com/baixi232310",
       "https://github.com/ZJYC",
-      "https://github.com/this-Fish",
       "https://github.com/Bedrockx"
     ]
   },
