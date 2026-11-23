@@ -1978,9 +1978,22 @@
     ]
   },
   {
+    "path": "pathing/其他/成就/尘世巡游/F 第六辑",
+    "authorLinks": [
+      "https://github.com/chestnutf1"
+    ]
+  },
+  {
+    "path": "pathing/其他/成就/尘世巡游/G 第七辑",
+    "authorLinks": [
+      "https://github.com/chestnutf1"
+    ]
+  },
+  {
     "path": "pathing/其他/成就/尘世巡游",
     "authorLinks": [
-      "https://github.com/Tooltingsu"
+      "https://github.com/Tooltingsu",
+      "https://github.com/chestnutf1"
     ]
   },
   {
@@ -1993,7 +2006,8 @@
     "path": "pathing/其他/成就",
     "authorLinks": [
       "https://github.com/Flower-MUYi",
-      "https://github.com/Tooltingsu"
+      "https://github.com/Tooltingsu",
+      "https://github.com/chestnutf1"
     ]
   },
   {
@@ -2014,6 +2028,7 @@
     "authorLinks": [
       "https://github.com/Flower-MUYi",
       "https://github.com/Tooltingsu",
+      "https://github.com/chestnutf1",
       "https://github.com/evildoer12138",
       "https://github.com/MisakaAldrich",
       "https://github.com/Patrick-Ze"
@@ -2973,6 +2988,7 @@
       "https://github.com/RRRR623",
       "https://github.com/Kupder",
       "https://github.com/non-repeating001",
+      "https://github.com/chestnutf1",
       "https://github.com/Patrick-Ze",
       "https://github.com/zaodonganqi",
       "https://github.com/Strix-nivicolum",
@@ -3163,7 +3179,8 @@
     "path": "js/AutoFishingTeyvat",
     "authorLinks": [
       "https://github.com/Hijiwos",
-      "https://github.com/this-Fish"
+      "https://github.com/this-Fish",
+      "https://github.com/zes711"
     ]
   },
   {
@@ -3359,6 +3376,12 @@
     "path": "js/DailyHarvestStats",
     "authorLinks": [
       "https://github.com/Zongyeeeee"
+    ]
+  },
+  {
+    "path": "js/DailyReport",
+    "authorLinks": [
+      "https://github.com/aaahai00"
     ]
   },
   {
@@ -3946,6 +3969,7 @@
       "https://github.com/huiyadanli",
       "https://github.com/RJFAC",
       "https://github.com/zephyr-bell",
+      "https://github.com/zes711",
       "https://github.com/kaedelcb",
       "https://github.com/ddaodan",
       "https://github.com/Flatmirrr",
