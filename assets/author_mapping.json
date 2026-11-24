@@ -141,6 +141,10 @@
     ]
   },
   {
+    "path": "pathing/地方特产/挪德卡莱/凝月泪滴",
+    "authorLinks": []
+  },
+  {
     "path": "pathing/地方特产/挪德卡莱/月落银",
     "authorLinks": [
       "https://github.com/Tooltingsu"
@@ -2611,10 +2615,22 @@
     ]
   },
   {
+    "path": "pathing/食材与炼金/笼酸浆/笼酸浆@不瘦五十斤不改名",
+    "authorLinks": [
+      "https://github.com/PanZic"
+    ]
+  },
+  {
+    "path": "pathing/食材与炼金/笼酸浆/笼酸浆@汐",
+    "authorLinks": [
+      "https://github.com/jiegedabaobei"
+    ]
+  },
+  {
     "path": "pathing/食材与炼金/笼酸浆",
     "authorLinks": [
-      "https://github.com/jiegedabaobei",
-      "https://github.com/PanZic"
+      "https://github.com/PanZic",
+      "https://github.com/jiegedabaobei"
     ]
   },
   {
